@@ -1,7 +1,7 @@
 {
   "updatedAt": "2026-09-14",
   "currentFollowers": 2782,
-  "totalPostsAllTime": 268,
+  "totalPostsAllTime": 267,
   "weeklyMetrics": [
     {
       "week": "2025-09-15",
@@ -568,10 +568,10 @@
   "authorStats": [
     {
       "author": "Brian Lutz",
-      "posts": 180,
-      "impressions": 242462,
-      "engagement": 2019,
-      "avgImpressions": 1347,
+      "posts": 179,
+      "impressions": 160490,
+      "engagement": 2011,
+      "avgImpressions": 897,
       "avgEngagement": 11.2
     },
     {
@@ -1214,6 +1214,2162 @@
         "reposts": 0,
         "engagement": 2,
         "contentType": "Organic"
+      }
+    ]
+  },
+  "authorWeekly": {
+    "Frank LaRosa": [
+      {
+        "week": "2025-09-15",
+        "impressionsOrganic": 310,
+        "impressionsSponsored": 0,
+        "engagement": 8,
+        "posts": 1
+      },
+      {
+        "week": "2025-09-22",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-09-29",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-10-06",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-10-13",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-10-20",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-10-27",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-11-03",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-11-10",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-11-17",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-11-24",
+        "impressionsOrganic": 205,
+        "impressionsSponsored": 0,
+        "engagement": 4,
+        "posts": 1
+      },
+      {
+        "week": "2025-12-01",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-12-08",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-12-15",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-12-22",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-12-29",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-01-05",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-01-12",
+        "impressionsOrganic": 599,
+        "impressionsSponsored": 0,
+        "engagement": 22,
+        "posts": 1
+      },
+      {
+        "week": "2026-01-19",
+        "impressionsOrganic": 221,
+        "impressionsSponsored": 0,
+        "engagement": 4,
+        "posts": 1
+      },
+      {
+        "week": "2026-01-26",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-02-02",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-02-09",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-02-16",
+        "impressionsOrganic": 2023,
+        "impressionsSponsored": 0,
+        "engagement": 68,
+        "posts": 1
+      },
+      {
+        "week": "2026-02-23",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-03-02",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-03-09",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-03-16",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-03-23",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-03-30",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-04-06",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-04-13",
+        "impressionsOrganic": 4794,
+        "impressionsSponsored": 0,
+        "engagement": 146,
+        "posts": 5
+      },
+      {
+        "week": "2026-04-20",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-04-27",
+        "impressionsOrganic": 128,
+        "impressionsSponsored": 0,
+        "engagement": 4,
+        "posts": 1
+      },
+      {
+        "week": "2026-05-04",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-05-11",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-05-18",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-05-25",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-06-01",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-06-08",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-06-15",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-06-22",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-06-29",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-07-06",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-07-13",
+        "impressionsOrganic": 2233,
+        "impressionsSponsored": 0,
+        "engagement": 9,
+        "posts": 2
+      },
+      {
+        "week": "2026-07-20",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-07-27",
+        "impressionsOrganic": 1292,
+        "impressionsSponsored": 0,
+        "engagement": 7,
+        "posts": 4
+      },
+      {
+        "week": "2026-08-03",
+        "impressionsOrganic": 708,
+        "impressionsSponsored": 0,
+        "engagement": 8,
+        "posts": 3
+      },
+      {
+        "week": "2026-08-10",
+        "impressionsOrganic": 1318,
+        "impressionsSponsored": 0,
+        "engagement": 10,
+        "posts": 4
+      },
+      {
+        "week": "2026-08-17",
+        "impressionsOrganic": 1000,
+        "impressionsSponsored": 0,
+        "engagement": 4,
+        "posts": 7
+      },
+      {
+        "week": "2026-08-24",
+        "impressionsOrganic": 1484,
+        "impressionsSponsored": 0,
+        "engagement": 13,
+        "posts": 7
+      },
+      {
+        "week": "2026-08-31",
+        "impressionsOrganic": 972,
+        "impressionsSponsored": 0,
+        "engagement": 7,
+        "posts": 7
+      }
+    ],
+    "Steven Weissman": [
+      {
+        "week": "2025-09-15",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-09-22",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-09-29",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-10-06",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-10-13",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-10-20",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-10-27",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-11-03",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-11-10",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-11-17",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-11-24",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-12-01",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-12-08",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-12-15",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-12-22",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-12-29",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-01-05",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-01-12",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-01-19",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-01-26",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-02-02",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-02-09",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-02-16",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-02-23",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-03-02",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-03-09",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-03-16",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-03-23",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-03-30",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-04-06",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-04-13",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-04-20",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-04-27",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-05-04",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-05-11",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-05-18",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-05-25",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-06-01",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-06-08",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-06-15",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-06-22",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-06-29",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-07-06",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-07-13",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-07-20",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-07-27",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-08-03",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-08-10",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-08-17",
+        "impressionsOrganic": 206,
+        "impressionsSponsored": 0,
+        "engagement": 1,
+        "posts": 1
+      },
+      {
+        "week": "2026-08-24",
+        "impressionsOrganic": 4678,
+        "impressionsSponsored": 0,
+        "engagement": 51,
+        "posts": 2
+      },
+      {
+        "week": "2026-08-31",
+        "impressionsOrganic": 688,
+        "impressionsSponsored": 0,
+        "engagement": 7,
+        "posts": 2
+      }
+    ],
+    "Hannah O'Brien": [
+      {
+        "week": "2025-09-15",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-09-22",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-09-29",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-10-06",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-10-13",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-10-20",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-10-27",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-11-03",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-11-10",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-11-17",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-11-24",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-12-01",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-12-08",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-12-15",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-12-22",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-12-29",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-01-05",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-01-12",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-01-19",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-01-26",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-02-02",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-02-09",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-02-16",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-02-23",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-03-02",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-03-09",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-03-16",
+        "impressionsOrganic": 216,
+        "impressionsSponsored": 0,
+        "engagement": 5,
+        "posts": 1
+      },
+      {
+        "week": "2026-03-23",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-03-30",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-04-06",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-04-13",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-04-20",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-04-27",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-05-04",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-05-11",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-05-18",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-05-25",
+        "impressionsOrganic": 226,
+        "impressionsSponsored": 0,
+        "engagement": 8,
+        "posts": 1
+      },
+      {
+        "week": "2026-06-01",
+        "impressionsOrganic": 549,
+        "impressionsSponsored": 0,
+        "engagement": 21,
+        "posts": 1
+      },
+      {
+        "week": "2026-06-08",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-06-15",
+        "impressionsOrganic": 577,
+        "impressionsSponsored": 0,
+        "engagement": 21,
+        "posts": 1
+      },
+      {
+        "week": "2026-06-22",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-06-29",
+        "impressionsOrganic": 4209,
+        "impressionsSponsored": 0,
+        "engagement": 91,
+        "posts": 3
+      },
+      {
+        "week": "2026-07-06",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-07-13",
+        "impressionsOrganic": 3640,
+        "impressionsSponsored": 0,
+        "engagement": 31,
+        "posts": 1
+      },
+      {
+        "week": "2026-07-20",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-07-27",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-08-03",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-08-10",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-08-17",
+        "impressionsOrganic": 547,
+        "impressionsSponsored": 0,
+        "engagement": 10,
+        "posts": 1
+      },
+      {
+        "week": "2026-08-24",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-08-31",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      }
+    ],
+    "Brian Lutz": [
+      {
+        "week": "2025-09-15",
+        "impressionsOrganic": 232,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 1
+      },
+      {
+        "week": "2025-09-22",
+        "impressionsOrganic": 2995,
+        "impressionsSponsored": 0,
+        "engagement": 51,
+        "posts": 2
+      },
+      {
+        "week": "2025-09-29",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-10-06",
+        "impressionsOrganic": 379,
+        "impressionsSponsored": 0,
+        "engagement": 3,
+        "posts": 1
+      },
+      {
+        "week": "2025-10-13",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-10-20",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-10-27",
+        "impressionsOrganic": 730,
+        "impressionsSponsored": 0,
+        "engagement": 14,
+        "posts": 1
+      },
+      {
+        "week": "2025-11-03",
+        "impressionsOrganic": 1134,
+        "impressionsSponsored": 0,
+        "engagement": 30,
+        "posts": 1
+      },
+      {
+        "week": "2025-11-10",
+        "impressionsOrganic": 1732,
+        "impressionsSponsored": 0,
+        "engagement": 65,
+        "posts": 5
+      },
+      {
+        "week": "2025-11-17",
+        "impressionsOrganic": 1114,
+        "impressionsSponsored": 0,
+        "engagement": 21,
+        "posts": 6
+      },
+      {
+        "week": "2025-11-24",
+        "impressionsOrganic": 941,
+        "impressionsSponsored": 0,
+        "engagement": 18,
+        "posts": 4
+      },
+      {
+        "week": "2025-12-01",
+        "impressionsOrganic": 554,
+        "impressionsSponsored": 0,
+        "engagement": 15,
+        "posts": 5
+      },
+      {
+        "week": "2025-12-08",
+        "impressionsOrganic": 519,
+        "impressionsSponsored": 0,
+        "engagement": 13,
+        "posts": 5
+      },
+      {
+        "week": "2025-12-15",
+        "impressionsOrganic": 639,
+        "impressionsSponsored": 0,
+        "engagement": 20,
+        "posts": 6
+      },
+      {
+        "week": "2025-12-22",
+        "impressionsOrganic": 643,
+        "impressionsSponsored": 0,
+        "engagement": 22,
+        "posts": 6
+      },
+      {
+        "week": "2025-12-29",
+        "impressionsOrganic": 575,
+        "impressionsSponsored": 0,
+        "engagement": 14,
+        "posts": 5
+      },
+      {
+        "week": "2026-01-05",
+        "impressionsOrganic": 453,
+        "impressionsSponsored": 0,
+        "engagement": 16,
+        "posts": 3
+      },
+      {
+        "week": "2026-01-12",
+        "impressionsOrganic": 1794,
+        "impressionsSponsored": 0,
+        "engagement": 45,
+        "posts": 3
+      },
+      {
+        "week": "2026-01-19",
+        "impressionsOrganic": 1609,
+        "impressionsSponsored": 0,
+        "engagement": 34,
+        "posts": 3
+      },
+      {
+        "week": "2026-01-26",
+        "impressionsOrganic": 3149,
+        "impressionsSponsored": 0,
+        "engagement": 80,
+        "posts": 4
+      },
+      {
+        "week": "2026-02-02",
+        "impressionsOrganic": 762,
+        "impressionsSponsored": 0,
+        "engagement": 15,
+        "posts": 2
+      },
+      {
+        "week": "2026-02-09",
+        "impressionsOrganic": 1666,
+        "impressionsSponsored": 0,
+        "engagement": 43,
+        "posts": 4
+      },
+      {
+        "week": "2026-02-16",
+        "impressionsOrganic": 1705,
+        "impressionsSponsored": 0,
+        "engagement": 26,
+        "posts": 3
+      },
+      {
+        "week": "2026-02-23",
+        "impressionsOrganic": 3491,
+        "impressionsSponsored": 0,
+        "engagement": 104,
+        "posts": 4
+      },
+      {
+        "week": "2026-03-02",
+        "impressionsOrganic": 1693,
+        "impressionsSponsored": 0,
+        "engagement": 55,
+        "posts": 6
+      },
+      {
+        "week": "2026-03-09",
+        "impressionsOrganic": 925,
+        "impressionsSponsored": 0,
+        "engagement": 38,
+        "posts": 3
+      },
+      {
+        "week": "2026-03-16",
+        "impressionsOrganic": 3475,
+        "impressionsSponsored": 81387,
+        "engagement": 117,
+        "posts": 7
+      },
+      {
+        "week": "2026-03-23",
+        "impressionsOrganic": 2894,
+        "impressionsSponsored": 0,
+        "engagement": 84,
+        "posts": 5
+      },
+      {
+        "week": "2026-03-30",
+        "impressionsOrganic": 1674,
+        "impressionsSponsored": 0,
+        "engagement": 42,
+        "posts": 3
+      },
+      {
+        "week": "2026-04-06",
+        "impressionsOrganic": 2448,
+        "impressionsSponsored": 0,
+        "engagement": 59,
+        "posts": 6
+      },
+      {
+        "week": "2026-04-13",
+        "impressionsOrganic": 421,
+        "impressionsSponsored": 0,
+        "engagement": 11,
+        "posts": 1
+      },
+      {
+        "week": "2026-04-20",
+        "impressionsOrganic": 1574,
+        "impressionsSponsored": 0,
+        "engagement": 56,
+        "posts": 5
+      },
+      {
+        "week": "2026-04-27",
+        "impressionsOrganic": 1191,
+        "impressionsSponsored": 0,
+        "engagement": 32,
+        "posts": 4
+      },
+      {
+        "week": "2026-05-04",
+        "impressionsOrganic": 4311,
+        "impressionsSponsored": 0,
+        "engagement": 182,
+        "posts": 6
+      },
+      {
+        "week": "2026-05-11",
+        "impressionsOrganic": 3739,
+        "impressionsSponsored": 0,
+        "engagement": 120,
+        "posts": 4
+      },
+      {
+        "week": "2026-05-18",
+        "impressionsOrganic": 3543,
+        "impressionsSponsored": 0,
+        "engagement": 91,
+        "posts": 7
+      },
+      {
+        "week": "2026-05-25",
+        "impressionsOrganic": 1556,
+        "impressionsSponsored": 0,
+        "engagement": 47,
+        "posts": 6
+      },
+      {
+        "week": "2026-06-01",
+        "impressionsOrganic": 4295,
+        "impressionsSponsored": 0,
+        "engagement": 39,
+        "posts": 2
+      },
+      {
+        "week": "2026-06-08",
+        "impressionsOrganic": 2968,
+        "impressionsSponsored": 0,
+        "engagement": 80,
+        "posts": 4
+      },
+      {
+        "week": "2026-06-15",
+        "impressionsOrganic": 1558,
+        "impressionsSponsored": 0,
+        "engagement": 51,
+        "posts": 4
+      },
+      {
+        "week": "2026-06-22",
+        "impressionsOrganic": 2038,
+        "impressionsSponsored": 0,
+        "engagement": 60,
+        "posts": 5
+      },
+      {
+        "week": "2026-06-29",
+        "impressionsOrganic": 2517,
+        "impressionsSponsored": 0,
+        "engagement": 41,
+        "posts": 6
+      },
+      {
+        "week": "2026-07-06",
+        "impressionsOrganic": 1800,
+        "impressionsSponsored": 0,
+        "engagement": 43,
+        "posts": 6
+      },
+      {
+        "week": "2026-07-13",
+        "impressionsOrganic": 543,
+        "impressionsSponsored": 0,
+        "engagement": 2,
+        "posts": 3
+      },
+      {
+        "week": "2026-07-20",
+        "impressionsOrganic": 1717,
+        "impressionsSponsored": 0,
+        "engagement": 24,
+        "posts": 4
+      },
+      {
+        "week": "2026-07-27",
+        "impressionsOrganic": 3280,
+        "impressionsSponsored": 0,
+        "engagement": 60,
+        "posts": 3
+      },
+      {
+        "week": "2026-08-03",
+        "impressionsOrganic": 1988,
+        "impressionsSponsored": 0,
+        "engagement": 28,
+        "posts": 4
+      },
+      {
+        "week": "2026-08-10",
+        "impressionsOrganic": 139,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 1
+      },
+      {
+        "week": "2026-08-17",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-08-24",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-08-31",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      }
+    ],
+    "Stephan du Plooy": [
+      {
+        "week": "2025-09-15",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-09-22",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-09-29",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-10-06",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-10-13",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-10-20",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-10-27",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-11-03",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-11-10",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-11-17",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-11-24",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-12-01",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-12-08",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-12-15",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-12-22",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-12-29",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-01-05",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-01-12",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-01-19",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-01-26",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-02-02",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-02-09",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-02-16",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-02-23",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-03-02",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-03-09",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-03-16",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-03-23",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-03-30",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-04-06",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-04-13",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-04-20",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-04-27",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-05-04",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-05-11",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-05-18",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-05-25",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-06-01",
+        "impressionsOrganic": 1354,
+        "impressionsSponsored": 0,
+        "engagement": 27,
+        "posts": 7
+      },
+      {
+        "week": "2026-06-08",
+        "impressionsOrganic": 1222,
+        "impressionsSponsored": 0,
+        "engagement": 22,
+        "posts": 5
+      },
+      {
+        "week": "2026-06-15",
+        "impressionsOrganic": 356,
+        "impressionsSponsored": 0,
+        "engagement": 7,
+        "posts": 3
+      },
+      {
+        "week": "2026-06-22",
+        "impressionsOrganic": 210,
+        "impressionsSponsored": 0,
+        "engagement": 3,
+        "posts": 1
+      },
+      {
+        "week": "2026-06-29",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-07-06",
+        "impressionsOrganic": 1223,
+        "impressionsSponsored": 0,
+        "engagement": 13,
+        "posts": 4
+      },
+      {
+        "week": "2026-07-13",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-07-20",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-07-27",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-08-03",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-08-10",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-08-17",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-08-24",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-08-31",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      }
+    ],
+    "Troy Demers": [
+      {
+        "week": "2025-09-15",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-09-22",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-09-29",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-10-06",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-10-13",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-10-20",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-10-27",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-11-03",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-11-10",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-11-17",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-11-24",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-12-01",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-12-08",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-12-15",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-12-22",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2025-12-29",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-01-05",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-01-12",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-01-19",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-01-26",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-02-02",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-02-09",
+        "impressionsOrganic": 716,
+        "impressionsSponsored": 0,
+        "engagement": 19,
+        "posts": 1
+      },
+      {
+        "week": "2026-02-16",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-02-23",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-03-02",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-03-09",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-03-16",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-03-23",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-03-30",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-04-06",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-04-13",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-04-20",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-04-27",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-05-04",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-05-11",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-05-18",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-05-25",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-06-01",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-06-08",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-06-15",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-06-22",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-06-29",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-07-06",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-07-13",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-07-20",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-07-27",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-08-03",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-08-10",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-08-17",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-08-24",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-08-31",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
       }
     ]
   }

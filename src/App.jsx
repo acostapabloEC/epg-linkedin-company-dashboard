@@ -1,3 +1,4 @@
+import { useState } from "react";
 import {
   AreaChart, Area, BarChart, Bar,
   XAxis, YAxis, CartesianGrid, Tooltip,
@@ -5,7 +6,7 @@ import {
 } from "recharts";
 import data from "./company-data.json";
 
-const { updatedAt, currentFollowers, totalPostsAllTime, weeklyMetrics, authorStats, topPostsByWeek } = data;
+const { updatedAt, currentFollowers, totalPostsAllTime, weeklyMetrics, authorStats, authorWeekly, topPostsByWeek } = data;
 
 const GOLD     = "#c9a84c";
 const GOLD_DIM = "rgba(201,168,76,0.15)";
@@ -34,20 +35,35 @@ function fmtDate(isoDate) {
   return `${MONTH_NAMES[d.getMonth()]} ${d.getDate()}, ${d.getFullYear()}`;
 }
 function fmtK(n) { return n >= 1000 ? `${(n / 1000).toFixed(1)}K` : String(n); }
+function fmtNum(n) { return (n ?? 0).toLocaleString(); }
 
 const latestWeek = weeklyMetrics[weeklyMetrics.length - 1];
 const prevWeek   = weeklyMetrics[weeklyMetrics.length - 2];
 const delta = (curr, prev) => (prev ? Math.round(((curr - prev) / prev) * 100) : null);
 
-const chartData = weeklyMetrics.map(w => ({
+const pageChartData = weeklyMetrics.map(w => ({
   week: fmtWeekLabel(w.week),
   Organic: w.impressionsOrganic,
   Sponsored: w.impressionsSponsored,
   Engagement: w.engagement,
 }));
 
+const authorNames = Object.keys(authorWeekly || {});
+const authorChartData = {};
+for (const author of authorNames) {
+  authorChartData[author] = authorWeekly[author].map(w => ({
+    week: fmtWeekLabel(w.week),
+    Organic: w.impressionsOrganic,
+    Sponsored: w.impressionsSponsored,
+    Engagement: w.engagement,
+  }));
+}
+
 const authorSortedByEngagement = [...authorStats].sort((a, b) => b.avgEngagement - a.avgEngagement);
 const latestWeekTopPosts = topPostsByWeek[latestWeek.week] || [];
+
+const tooltipNumberFormatter = (value) => fmtNum(value);
+const tooltipCursorStyle = { fill: "rgba(255,255,255,0.04)" };
 
 function KpiCard({ label, value, delta: d, deltaLabel, accent, sub, large }) {
   const up = d != null && d >= 0;
@@ -69,6 +85,10 @@ function KpiCard({ label, value, delta: d, deltaLabel, accent, sub, large }) {
 }
 
 export default function App() {
+  const [selectedAuthor, setSelectedAuthor] = useState("all");
+  const chartData = selectedAuthor === "all" ? pageChartData : authorChartData[selectedAuthor];
+  const selectedAuthorStats = selectedAuthor === "all" ? null : authorStats.find(a => a.author === selectedAuthor);
+
   return (
     <div style={{ background: BG, minHeight: "100vh", color: "#e6edf3", fontFamily: "Inter, system-ui, sans-serif", padding: "32px 24px" }}>
       <div style={{ maxWidth: 1200, margin: "0 auto" }}>
@@ -102,16 +122,47 @@ export default function App() {
           <KpiCard label="Organic vs Sponsored (this week)" value={`${fmtK(latestWeek.impressionsOrganic)} / ${fmtK(latestWeek.impressionsSponsored)}`} sub={`${Math.round((latestWeek.impressionsOrganic/(latestWeek.impressions||1))*100)}% organic`} accent={GOLD} />
         </div>
 
+        {/* Author toggle */}
+        <div style={{ display: "flex", alignItems: "center", gap: 10, flexWrap: "wrap", marginBottom: 16 }}>
+          <div style={{ fontFamily: "'DM Mono',monospace", fontSize: 10, letterSpacing: 1, textTransform: "uppercase", color: MUTED }}>Show charts for:</div>
+          <div style={{ display: "flex", gap: 6, flexWrap: "wrap" }}>
+            {["all", ...authorNames].map(name => {
+              const active = selectedAuthor === name;
+              const label = name === "all" ? "All (Page Total)" : name;
+              return (
+                <button
+                  key={name}
+                  onClick={() => setSelectedAuthor(name)}
+                  style={{
+                    fontFamily: "'DM Mono',monospace", fontSize: 11, padding: "6px 12px", borderRadius: 20,
+                    border: `1px solid ${active ? GOLD : BORDER}`,
+                    background: active ? GOLD_DIM : "transparent",
+                    color: active ? GOLD : MUTED,
+                    cursor: "pointer",
+                  }}
+                >
+                  {label}
+                </button>
+              );
+            })}
+          </div>
+        </div>
+
         {/* Weekly trend chart */}
         <div style={{ background: SURFACE, border: `1px solid ${BORDER}`, borderRadius: 12, padding: 20, marginBottom: 24 }}>
-          <div style={{ fontSize: 14, fontWeight: 600, marginBottom: 2 }}>Weekly Impressions — Organic vs. Sponsored</div>
-          <div style={{ fontSize: 11, color: MUTED, marginBottom: 16 }}>{weeklyMetrics.length} weeks · {fmtDate(weeklyMetrics[0].week)} – {fmtDate(latestWeek.week)}</div>
+          <div style={{ fontSize: 14, fontWeight: 600, marginBottom: 2 }}>
+            Weekly Impressions{selectedAuthor === "all" ? " — Organic vs. Sponsored" : ` — ${selectedAuthor}`}
+          </div>
+          <div style={{ fontSize: 11, color: MUTED, marginBottom: 16 }}>
+            {weeklyMetrics.length} weeks · {fmtDate(weeklyMetrics[0].week)} – {fmtDate(latestWeek.week)}
+            {selectedAuthorStats && ` · ${selectedAuthorStats.posts} posts · ${fmtNum(selectedAuthorStats.impressions)} impressions all-time`}
+          </div>
           <ResponsiveContainer width="100%" height={280}>
             <AreaChart data={chartData} margin={{ top: 5, right: 10, left: -10, bottom: 0 }}>
               <CartesianGrid stroke={BORDER} vertical={false} />
               <XAxis dataKey="week" tick={{ fill: MUTED, fontSize: 10 }} interval={Math.floor(chartData.length / 10)} />
               <YAxis tick={{ fill: MUTED, fontSize: 10 }} tickFormatter={fmtK} />
-              <Tooltip contentStyle={{ background: "#0d1420", border: `1px solid ${BORDER}`, borderRadius: 8, fontSize: 12 }} />
+              <Tooltip contentStyle={{ background: "#0d1420", border: `1px solid ${BORDER}`, borderRadius: 8, fontSize: 12 }} formatter={tooltipNumberFormatter} cursor={tooltipCursorStyle} />
               <Legend wrapperStyle={{ fontSize: 11 }} />
               <Area type="monotone" dataKey="Organic" stackId="1" stroke={BLUE} fill={BLUE_DIM} />
               <Area type="monotone" dataKey="Sponsored" stackId="1" stroke={GOLD} fill={GOLD_DIM} />
@@ -121,14 +172,18 @@ export default function App() {
 
         {/* Weekly engagement chart */}
         <div style={{ background: SURFACE, border: `1px solid ${BORDER}`, borderRadius: 12, padding: 20, marginBottom: 24 }}>
-          <div style={{ fontSize: 14, fontWeight: 600, marginBottom: 2 }}>Weekly Engagement (Reactions + Comments + Reposts)</div>
-          <div style={{ fontSize: 11, color: MUTED, marginBottom: 16 }}>Organic + sponsored combined</div>
+          <div style={{ fontSize: 14, fontWeight: 600, marginBottom: 2 }}>
+            Weekly Engagement (Reactions + Comments + Reposts){selectedAuthor !== "all" && ` — ${selectedAuthor}`}
+          </div>
+          <div style={{ fontSize: 11, color: MUTED, marginBottom: 16 }}>
+            {selectedAuthor === "all" ? "Organic + sponsored combined" : `${selectedAuthorStats?.avgEngagement ?? 0} avg engagement/post all-time`}
+          </div>
           <ResponsiveContainer width="100%" height={220}>
             <BarChart data={chartData} margin={{ top: 5, right: 10, left: -10, bottom: 0 }}>
               <CartesianGrid stroke={BORDER} vertical={false} />
               <XAxis dataKey="week" tick={{ fill: MUTED, fontSize: 10 }} interval={Math.floor(chartData.length / 10)} />
-              <YAxis tick={{ fill: MUTED, fontSize: 10 }} />
-              <Tooltip contentStyle={{ background: "#0d1420", border: `1px solid ${BORDER}`, borderRadius: 8, fontSize: 12 }} />
+              <YAxis tick={{ fill: MUTED, fontSize: 10 }} tickFormatter={fmtK} />
+              <Tooltip contentStyle={{ background: "#0d1420", border: `1px solid ${BORDER}`, borderRadius: 8, fontSize: 12 }} formatter={tooltipNumberFormatter} cursor={tooltipCursorStyle} />
               <Bar dataKey="Engagement" fill={GREEN} radius={[3,3,0,0]} />
             </BarChart>
           </ResponsiveContainer>
