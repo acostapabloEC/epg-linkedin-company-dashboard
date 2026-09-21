@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-14",
+  "updatedAt": "2026-09-21",
   "currentFollowers": 2782,
-  "totalPostsAllTime": 267,
+  "totalPostsAllTime": 274,
   "weeklyMetrics": [
     {
       "week": "2025-09-15",
@@ -563,6 +563,17 @@
       "comments": 0,
       "reposts": 1,
       "engagement": 14
+    },
+    {
+      "week": "2026-09-14",
+      "impressionsOrganic": 1627,
+      "impressionsSponsored": 2350,
+      "impressions": 3977,
+      "clicks": 113,
+      "reactions": 22,
+      "comments": 3,
+      "reposts": 0,
+      "engagement": 25
     }
   ],
   "authorStats": [
@@ -576,11 +587,11 @@
     },
     {
       "author": "Frank LaRosa",
-      "posts": 51,
-      "impressions": 17900,
-      "engagement": 318,
-      "avgImpressions": 351,
-      "avgEngagement": 6.2
+      "posts": 57,
+      "impressions": 18301,
+      "engagement": 319,
+      "avgImpressions": 321,
+      "avgEngagement": 5.6
     },
     {
       "author": "Hannah O'Brien",
@@ -592,11 +603,11 @@
     },
     {
       "author": "Steven Weissman",
-      "posts": 7,
-      "impressions": 7277,
-      "engagement": 81,
-      "avgImpressions": 1040,
-      "avgEngagement": 11.6
+      "posts": 8,
+      "impressions": 8044,
+      "engagement": 102,
+      "avgImpressions": 1006,
+      "avgEngagement": 12.8
     },
     {
       "author": "Stephan du Plooy",
@@ -616,56 +627,6 @@
     }
   ],
   "topPostsByWeek": {
-    "2026-06-15": [
-      {
-        "preview": "As financial advisors navigate increasing industry consolidation, succession planning challenges, and evolving growth opportunities, having the right guidance has never been more important. That's why we're excited to an",
-        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7472301979092856832",
-        "type": "Organic",
-        "author": "Brian Lutz",
-        "date": "2026-06-15",
-        "week": "2026-06-15",
-        "impressions": 1005,
-        "views": 297,
-        "clicks": 22,
-        "likes": 18,
-        "comments": 8,
-        "reposts": 2,
-        "engagement": 28,
-        "contentType": "Article"
-      },
-      {
-        "preview": "We are pleased to announce and congratulate that the ECP team and FourStar Wealth Advisors LLC recently completed a successful Advisor Transition - - a placement that reflects the dedication and expertise our people brin",
-        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7473007817000636416",
-        "type": "Organic",
-        "author": "Hannah O'Brien",
-        "date": "2026-06-16",
-        "week": "2026-06-15",
-        "impressions": 577,
-        "views": 512,
-        "clicks": 53,
-        "likes": 17,
-        "comments": 2,
-        "reposts": 2,
-        "engagement": 21,
-        "contentType": "Video"
-      },
-      {
-        "preview": "The best recruiting conversations aren't pitches.. they're conversations. Stacey Frank, our Chief Revenue Officer & EVP of Sales, shares why the most effective advisor transitions start with one thing: truly being heard.",
-        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7472377414426267649",
-        "type": "Organic",
-        "author": "Brian Lutz",
-        "date": "2026-06-15",
-        "week": "2026-06-15",
-        "impressions": 340,
-        "views": 246,
-        "clicks": 22,
-        "likes": 12,
-        "comments": 1,
-        "reposts": 2,
-        "engagement": 15,
-        "contentType": "Video"
-      }
-    ],
     "2026-06-22": [
       {
         "preview": "This month's Elite Consultant Spotlight features someone who doesn't just understand advisor transitions, she's lived every side of them! Julie Banta Mizerany has been with Elite Consulting Partners as one of our Private",
@@ -1215,6 +1176,53 @@
         "engagement": 2,
         "contentType": "Organic"
       }
+    ],
+    "2026-09-14": [
+      {
+        "preview": "$125M + in AUM transitioned to Ameriprise Financial Services, LLC | An advisor ready to change the economics of his business for his team, his clients, and his own family. With more than $125 million in AUM and countless",
+        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7506394054709055490",
+        "type": "Organic",
+        "author": "Steven Weissman",
+        "date": "2026-09-17",
+        "impressions": 767,
+        "views": 358,
+        "clicks": 47,
+        "likes": 17,
+        "comments": 4,
+        "reposts": 0,
+        "engagement": 21,
+        "contentType": "Video"
+      },
+      {
+        "preview": "I did not come this far just to come this far. That line hits different when you have spent 30 years building something. And here is the question I keep asking advisors who are thinking about retirement. If you build the",
+        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7506714397206024193",
+        "type": "Organic",
+        "author": "Frank LaRosa",
+        "date": "2026-09-18",
+        "impressions": 83,
+        "views": 39,
+        "clicks": 2,
+        "likes": 1,
+        "comments": 0,
+        "reposts": 0,
+        "engagement": 1,
+        "contentType": "Video"
+      },
+      {
+        "preview": "One of the most common charitable giving mistakes has nothing to do with generosity. It's sequencing. When a client sells highly appreciated stock first and then donates the cash, they realize capital gains and pay tax o",
+        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7507076929515257856",
+        "type": "Organic",
+        "author": "Frank LaRosa",
+        "date": "2026-09-19",
+        "impressions": 25,
+        "views": 0,
+        "clicks": 0,
+        "likes": 0,
+        "comments": 0,
+        "reposts": 0,
+        "engagement": 0,
+        "contentType": "Organic"
+      }
     ]
   },
   "authorWeekly": {
@@ -1575,6 +1583,13 @@
         "impressionsSponsored": 0,
         "engagement": 7,
         "posts": 7
+      },
+      {
+        "week": "2026-09-14",
+        "impressionsOrganic": 401,
+        "impressionsSponsored": 0,
+        "engagement": 1,
+        "posts": 6
       }
     ],
     "Steven Weissman": [
@@ -1934,6 +1949,13 @@
         "impressionsSponsored": 0,
         "engagement": 7,
         "posts": 2
+      },
+      {
+        "week": "2026-09-14",
+        "impressionsOrganic": 767,
+        "impressionsSponsored": 0,
+        "engagement": 21,
+        "posts": 1
       }
     ],
     "Hannah O'Brien": [
@@ -2289,6 +2311,13 @@
       },
       {
         "week": "2026-08-31",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-09-14",
         "impressionsOrganic": 0,
         "impressionsSponsored": 0,
         "engagement": 0,
@@ -2652,6 +2681,13 @@
         "impressionsSponsored": 0,
         "engagement": 0,
         "posts": 0
+      },
+      {
+        "week": "2026-09-14",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
       }
     ],
     "Stephan du Plooy": [
@@ -3011,6 +3047,13 @@
         "impressionsSponsored": 0,
         "engagement": 0,
         "posts": 0
+      },
+      {
+        "week": "2026-09-14",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
       }
     ],
     "Troy Demers": [
@@ -3366,6 +3409,13 @@
       },
       {
         "week": "2026-08-31",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-09-14",
         "impressionsOrganic": 0,
         "impressionsSponsored": 0,
         "engagement": 0,

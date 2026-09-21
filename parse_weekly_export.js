@@ -91,7 +91,8 @@ async function main() {
       engagement: (parseInt(likes, 10) || 0) + (parseInt(comments, 10) || 0) + (parseInt(reposts, 10) || 0),
       contentType: contentType || type,
     };
-  }).filter(p => p.date && new Date(p.date + 'T12:00:00') >= weekStartD && new Date(p.date + 'T12:00:00') <= weekEndD);
+  }).filter(p => p.type !== 'Total') // LinkedIn adds a duplicate organic+sponsored summary row per boosted post; drop it or engagement/impressions double-count
+    .filter(p => p.date && new Date(p.date + 'T12:00:00') >= weekStartD && new Date(p.date + 'T12:00:00') <= weekEndD);
 
   const topPosts = [...posts].sort((a, b) => b.engagement - a.engagement).slice(0, 3);
 
@@ -99,9 +100,11 @@ async function main() {
   const authorThisWeek = {};
   for (const p of posts) {
     const a = p.author || '(unknown)';
-    if (!authorThisWeek[a]) authorThisWeek[a] = { author: a, posts: 0, impressions: 0, engagement: 0 };
+    if (!authorThisWeek[a]) authorThisWeek[a] = { author: a, posts: 0, impressions: 0, impressionsOrganic: 0, impressionsSponsored: 0, engagement: 0 };
     authorThisWeek[a].posts++;
     authorThisWeek[a].impressions += p.impressions;
+    if (p.type === 'Sponsored') authorThisWeek[a].impressionsSponsored += p.impressions;
+    else authorThisWeek[a].impressionsOrganic += p.impressions;
     authorThisWeek[a].engagement += p.engagement;
   }
 
