@@ -1,7 +1,7 @@
 {
   "updatedAt": "2026-09-28",
   "currentFollowers": 2782,
-  "totalPostsAllTime": 275,
+  "totalPostsAllTime": 281,
   "weeklyMetrics": [
     {
       "week": "2025-09-15",
@@ -574,6 +574,17 @@
       "comments": 3,
       "reposts": 0,
       "engagement": 27
+    },
+    {
+      "week": "2026-09-21",
+      "impressionsOrganic": 1430,
+      "impressionsSponsored": 200,
+      "impressions": 1630,
+      "clicks": 41,
+      "reactions": 19,
+      "comments": 0,
+      "reposts": 0,
+      "engagement": 19
     }
   ],
   "authorStats": [
@@ -587,11 +598,11 @@
     },
     {
       "author": "Frank LaRosa",
-      "posts": 58,
-      "impressions": 18603,
-      "engagement": 322,
-      "avgImpressions": 321,
-      "avgEngagement": 5.6
+      "posts": 63,
+      "impressions": 19070,
+      "engagement": 325,
+      "avgImpressions": 303,
+      "avgEngagement": 5.2
     },
     {
       "author": "Hannah O'Brien",
@@ -603,11 +614,11 @@
     },
     {
       "author": "Steven Weissman",
-      "posts": 8,
-      "impressions": 8165,
-      "engagement": 104,
-      "avgImpressions": 1021,
-      "avgEngagement": 13
+      "posts": 9,
+      "impressions": 8552,
+      "engagement": 109,
+      "avgImpressions": 950,
+      "avgEngagement": 12.1
     },
     {
       "author": "Stephan du Plooy",
@@ -627,56 +638,6 @@
     }
   ],
   "topPostsByWeek": {
-    "2026-06-22": [
-      {
-        "preview": "This month's Elite Consultant Spotlight features someone who doesn't just understand advisor transitions, she's lived every side of them! Julie Banta Mizerany has been with Elite Consulting Partners as one of our Private",
-        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7475201292110577664",
-        "type": "Organic",
-        "author": "Brian Lutz",
-        "date": "2026-06-23",
-        "week": "2026-06-22",
-        "impressions": 771,
-        "views": 0,
-        "clicks": 281,
-        "likes": 23,
-        "comments": 3,
-        "reposts": 1,
-        "engagement": 27,
-        "contentType": "Organic"
-      },
-      {
-        "preview": "Every advisor is different, and at ECP, we wouldn't have it any other way. Brantly Blew, Senior Business Consultant, put it perfectly during the Good Firm Bad Firm panel at #Ignite2026: \"We have to really hone in on ever",
-        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7475599912638959616",
-        "type": "Organic",
-        "author": "Brian Lutz",
-        "date": "2026-06-24",
-        "week": "2026-06-22",
-        "impressions": 527,
-        "views": 268,
-        "clicks": 23,
-        "likes": 14,
-        "comments": 3,
-        "reposts": 1,
-        "engagement": 18,
-        "contentType": "Video"
-      },
-      {
-        "preview": "Elite's tremendous, done a great job,\" was such a great thing to hear from one of our longtime partners, and sponsor of Ignite Conference from the very beginning, Brian Kasal (CEO & Founder, FourStar Wealth Advisors LLC)",
-        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7474834917932118017",
-        "type": "Organic",
-        "author": "Brian Lutz",
-        "date": "2026-06-22",
-        "week": "2026-06-22",
-        "impressions": 310,
-        "views": 0,
-        "clicks": 11,
-        "likes": 10,
-        "comments": 0,
-        "reposts": 1,
-        "engagement": 11,
-        "contentType": "Organic"
-      }
-    ],
     "2026-06-29": [
       {
         "preview": "Another Texas-Sized Transition | Celebrating a recent $460M AUM Advisor Transition We're proud to celebrate this successful advisor career transition to Cetera Financial Group, guided by the expertise of ECP Private Clie",
@@ -1223,6 +1184,53 @@
         "engagement": 1,
         "contentType": "Video"
       }
+    ],
+    "2026-09-21": [
+      {
+        "preview": "$175M + in AUM transitioned to @Momentum Independent Network | A stronger future, and another successful transition, facilitated by Senior Business Consultant @Chuck Dixon. With the right due diligence and guidance, advi",
+        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7508217309107273729",
+        "type": "Organic",
+        "author": "Steven Weissman",
+        "date": "2026-09-22",
+        "impressions": 387,
+        "views": 200,
+        "clicks": 5,
+        "likes": 5,
+        "comments": 0,
+        "reposts": 0,
+        "engagement": 5,
+        "contentType": "Video"
+      },
+      {
+        "preview": "After working with some of the largest practices in the country, I can tell you there are 3 types of financial advisors on social media right now. And only one of them is actually building something. Advisor 1 posts mark",
+        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7508165393170034688",
+        "type": "Organic",
+        "author": "Frank LaRosa",
+        "date": "2026-09-22",
+        "impressions": 207,
+        "views": 89,
+        "clicks": 5,
+        "likes": 2,
+        "comments": 0,
+        "reposts": 0,
+        "engagement": 2,
+        "contentType": "Video"
+      },
+      {
+        "preview": "85% of what every firm is selling you is identical. The culture talk. The \"we're different\" speech. No firm has ever walked into a meeting and said \"candidly, our culture kind of sucks.\" Right? They all say the same thin",
+        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7509613380568051712",
+        "type": "Organic",
+        "author": "Frank LaRosa",
+        "date": "2026-09-26",
+        "impressions": 110,
+        "views": 40,
+        "clicks": 7,
+        "likes": 1,
+        "comments": 0,
+        "reposts": 0,
+        "engagement": 1,
+        "contentType": "Video"
+      }
     ]
   },
   "authorWeekly": {
@@ -1590,6 +1598,13 @@
         "impressionsSponsored": 0,
         "engagement": 4,
         "posts": 7
+      },
+      {
+        "week": "2026-09-21",
+        "impressionsOrganic": 467,
+        "impressionsSponsored": 0,
+        "engagement": 3,
+        "posts": 5
       }
     ],
     "Steven Weissman": [
@@ -1956,6 +1971,13 @@
         "impressionsSponsored": 0,
         "engagement": 23,
         "posts": 1
+      },
+      {
+        "week": "2026-09-21",
+        "impressionsOrganic": 387,
+        "impressionsSponsored": 0,
+        "engagement": 5,
+        "posts": 1
       }
     ],
     "Hannah O'Brien": [
@@ -2318,6 +2340,13 @@
       },
       {
         "week": "2026-09-14",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-09-21",
         "impressionsOrganic": 0,
         "impressionsSponsored": 0,
         "engagement": 0,
@@ -2688,6 +2717,13 @@
         "impressionsSponsored": 0,
         "engagement": 0,
         "posts": 0
+      },
+      {
+        "week": "2026-09-21",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
       }
     ],
     "Stephan du Plooy": [
@@ -3054,6 +3090,13 @@
         "impressionsSponsored": 0,
         "engagement": 0,
         "posts": 0
+      },
+      {
+        "week": "2026-09-21",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
       }
     ],
     "Troy Demers": [
@@ -3416,6 +3459,13 @@
       },
       {
         "week": "2026-09-14",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-09-21",
         "impressionsOrganic": 0,
         "impressionsSponsored": 0,
         "engagement": 0,
