@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-21",
+  "updatedAt": "2026-09-28",
   "currentFollowers": 2782,
-  "totalPostsAllTime": 274,
+  "totalPostsAllTime": 275,
   "weeklyMetrics": [
     {
       "week": "2025-09-15",
@@ -566,14 +566,14 @@
     },
     {
       "week": "2026-09-14",
-      "impressionsOrganic": 1627,
-      "impressionsSponsored": 2350,
-      "impressions": 3977,
-      "clicks": 113,
-      "reactions": 22,
+      "impressionsOrganic": 1796,
+      "impressionsSponsored": 2509,
+      "impressions": 4305,
+      "clicks": 130,
+      "reactions": 24,
       "comments": 3,
       "reposts": 0,
-      "engagement": 25
+      "engagement": 27
     }
   ],
   "authorStats": [
@@ -587,9 +587,9 @@
     },
     {
       "author": "Frank LaRosa",
-      "posts": 57,
-      "impressions": 18301,
-      "engagement": 319,
+      "posts": 58,
+      "impressions": 18603,
+      "engagement": 322,
       "avgImpressions": 321,
       "avgEngagement": 5.6
     },
@@ -604,10 +604,10 @@
     {
       "author": "Steven Weissman",
       "posts": 8,
-      "impressions": 8044,
-      "engagement": 102,
-      "avgImpressions": 1006,
-      "avgEngagement": 12.8
+      "impressions": 8165,
+      "engagement": 104,
+      "avgImpressions": 1021,
+      "avgEngagement": 13
     },
     {
       "author": "Stephan du Plooy",
@@ -1184,13 +1184,13 @@
         "type": "Organic",
         "author": "Steven Weissman",
         "date": "2026-09-17",
-        "impressions": 767,
-        "views": 358,
-        "clicks": 47,
-        "likes": 17,
+        "impressions": 888,
+        "views": 470,
+        "clicks": 48,
+        "likes": 19,
         "comments": 4,
         "reposts": 0,
-        "engagement": 21,
+        "engagement": 23,
         "contentType": "Video"
       },
       {
@@ -1199,29 +1199,29 @@
         "type": "Organic",
         "author": "Frank LaRosa",
         "date": "2026-09-18",
-        "impressions": 83,
-        "views": 39,
-        "clicks": 2,
+        "impressions": 111,
+        "views": 50,
+        "clicks": 3,
+        "likes": 2,
+        "comments": 0,
+        "reposts": 0,
+        "engagement": 2,
+        "contentType": "Video"
+      },
+      {
+        "preview": "When you walk into a negotiation and the other side knows exactly what you want and how badly you want it you have already given away your leverage. He held all the cards. . That experience is actually part of why Frank ",
+        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7507439124178575360",
+        "type": "Organic",
+        "author": "Frank LaRosa",
+        "date": "2026-09-20",
+        "impressions": 213,
+        "views": 99,
+        "clicks": 5,
         "likes": 1,
         "comments": 0,
         "reposts": 0,
         "engagement": 1,
         "contentType": "Video"
-      },
-      {
-        "preview": "One of the most common charitable giving mistakes has nothing to do with generosity. It's sequencing. When a client sells highly appreciated stock first and then donates the cash, they realize capital gains and pay tax o",
-        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7507076929515257856",
-        "type": "Organic",
-        "author": "Frank LaRosa",
-        "date": "2026-09-19",
-        "impressions": 25,
-        "views": 0,
-        "clicks": 0,
-        "likes": 0,
-        "comments": 0,
-        "reposts": 0,
-        "engagement": 0,
-        "contentType": "Organic"
       }
     ]
   },
@@ -1586,10 +1586,10 @@
       },
       {
         "week": "2026-09-14",
-        "impressionsOrganic": 401,
+        "impressionsOrganic": 703,
         "impressionsSponsored": 0,
-        "engagement": 1,
-        "posts": 6
+        "engagement": 4,
+        "posts": 7
       }
     ],
     "Steven Weissman": [
@@ -1952,9 +1952,9 @@
       },
       {
         "week": "2026-09-14",
-        "impressionsOrganic": 767,
+        "impressionsOrganic": 888,
         "impressionsSponsored": 0,
-        "engagement": 21,
+        "engagement": 23,
         "posts": 1
       }
     ],
