@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-05",
+  "updatedAt": "2026-10-12",
   "currentFollowers": 2782,
-  "totalPostsAllTime": 286,
+  "totalPostsAllTime": 291,
   "weeklyMetrics": [
     {
       "week": "2025-09-15",
@@ -588,12 +588,23 @@
     },
     {
       "week": "2026-09-28",
-      "impressionsOrganic": 1299,
-      "impressionsSponsored": 45341,
-      "impressions": 46640,
-      "clicks": 343,
-      "reactions": 14,
+      "impressionsOrganic": 1514,
+      "impressionsSponsored": 47168,
+      "impressions": 48682,
+      "clicks": 361,
+      "reactions": 15,
       "comments": 2,
+      "reposts": 0,
+      "engagement": 17
+    },
+    {
+      "week": "2026-10-05",
+      "impressionsOrganic": 1817,
+      "impressionsSponsored": 3612,
+      "impressions": 5429,
+      "clicks": 203,
+      "reactions": 15,
+      "comments": 1,
       "reposts": 0,
       "engagement": 16
     }
@@ -609,11 +620,11 @@
     },
     {
       "author": "Frank LaRosa",
-      "posts": 67,
-      "impressions": 19492,
-      "engagement": 329,
-      "avgImpressions": 291,
-      "avgEngagement": 4.9
+      "posts": 69,
+      "impressions": 19669,
+      "engagement": 331,
+      "avgImpressions": 285,
+      "avgEngagement": 4.8
     },
     {
       "author": "Hannah O'Brien",
@@ -625,11 +636,11 @@
     },
     {
       "author": "Steven Weissman",
-      "posts": 10,
-      "impressions": 8912,
-      "engagement": 114,
-      "avgImpressions": 891,
-      "avgEngagement": 11.4
+      "posts": 13,
+      "impressions": 9910,
+      "engagement": 126,
+      "avgImpressions": 762,
+      "avgEngagement": 9.7
     },
     {
       "author": "Stephan du Plooy",
@@ -649,56 +660,6 @@
     }
   ],
   "topPostsByWeek": {
-    "2026-07-06": [
-      {
-        "preview": "Elite Consulting Partners is proud to celebrate 15 years of guiding financial advisors through some of the most important decisions of their careers. From advisor transitions and firm evaluations to M&A, succession, grow",
-        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7479907533248315392",
-        "type": "Organic",
-        "author": "Brian Lutz",
-        "date": "2026-07-06",
-        "week": "2026-07-06",
-        "impressions": 618,
-        "views": 254,
-        "clicks": 11,
-        "likes": 22,
-        "comments": 0,
-        "reposts": 1,
-        "engagement": 23,
-        "contentType": "Article"
-      },
-      {
-        "preview": "Work hard. Enjoy the journey. Celebrate the people who make it all possible. Any leader knows that great work starts with great people. Recently, we took an afternoon to slow down, enjoy some incredible food truck favori",
-        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7481359086396112896",
-        "type": "Organic",
-        "author": "Brian Lutz",
-        "date": "2026-07-10",
-        "week": "2026-07-06",
-        "impressions": 465,
-        "views": 186,
-        "clicks": 28,
-        "likes": 10,
-        "comments": 0,
-        "reposts": 1,
-        "engagement": 11,
-        "contentType": "Video"
-      },
-      {
-        "preview": "The hardest thing I have had to learn as a CEO is letting go of the vine. And I mean that literally. When you are a doer by nature the instinct is always the same. It is easier if I just do it. I know how to do it. I can",
-        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7482072223785332739",
-        "type": "Organic",
-        "author": "Stephan du Plooy",
-        "date": "2026-07-12",
-        "week": "2026-07-06",
-        "impressions": 395,
-        "views": 140,
-        "clicks": 15,
-        "likes": 7,
-        "comments": 0,
-        "reposts": 1,
-        "engagement": 8,
-        "contentType": "Video"
-      }
-    ],
     "2026-07-13": [
       {
         "preview": "Sending our congratulations to Kaylor Bankler, Assistant Vice President of Corporate Services, on supporting the successful transition of an advisor with $550M in AUM. After an extensive due diligence process with Kaylor",
@@ -1239,6 +1200,53 @@
         "engagement": 1,
         "contentType": "Video"
       }
+    ],
+    "2026-10-05": [
+      {
+        "preview": "$295M + in AUM transitioned to Rockefeller Capital Management |🚨 Senior Business Consultant Don O'Fee's first transition close of the year is officially in the books and we couldn't this Advisor and their team. After mo",
+        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7513655643455782912",
+        "type": "Organic",
+        "author": "Steven Weissman",
+        "date": "2026-10-07",
+        "impressions": 407,
+        "views": 201,
+        "clicks": 9,
+        "likes": 5,
+        "comments": 1,
+        "reposts": 0,
+        "engagement": 6,
+        "contentType": "Video"
+      },
+      {
+        "preview": "Same coach, just a different playing field, because some things never change. Especially the passion and instinct to coach, guide, and help others reach their full potential. Twenty years ago, Frank LaRosa was on the sid",
+        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7513353961752453120",
+        "type": "Organic",
+        "author": "Steven Weissman",
+        "date": "2026-10-06",
+        "impressions": 386,
+        "views": 211,
+        "clicks": 6,
+        "likes": 4,
+        "comments": 0,
+        "reposts": 0,
+        "engagement": 4,
+        "contentType": "Video"
+      },
+      {
+        "preview": "Industry headlines move fast, so separating the “noise” from the developments that actually carry potential impacts your business and career trajectory is a little more complicated. This week, we’re looking at new data f",
+        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7512879436384321537",
+        "type": "Organic",
+        "author": "Steven Weissman",
+        "date": "2026-10-05",
+        "impressions": 205,
+        "views": 0,
+        "clicks": 55,
+        "likes": 2,
+        "comments": 0,
+        "reposts": 0,
+        "engagement": 2,
+        "contentType": "Organic"
+      }
     ]
   },
   "authorWeekly": {
@@ -1616,10 +1624,17 @@
       },
       {
         "week": "2026-09-28",
-        "impressionsOrganic": 422,
+        "impressionsOrganic": 522,
         "impressionsSponsored": 0,
-        "engagement": 4,
-        "posts": 4
+        "engagement": 5,
+        "posts": 5
+      },
+      {
+        "week": "2026-10-05",
+        "impressionsOrganic": 77,
+        "impressionsSponsored": 0,
+        "engagement": 1,
+        "posts": 1
       }
     ],
     "Steven Weissman": [
@@ -2000,6 +2015,13 @@
         "impressionsSponsored": 0,
         "engagement": 5,
         "posts": 1
+      },
+      {
+        "week": "2026-10-05",
+        "impressionsOrganic": 998,
+        "impressionsSponsored": 0,
+        "engagement": 12,
+        "posts": 3
       }
     ],
     "Hannah O'Brien": [
@@ -2376,6 +2398,13 @@
       },
       {
         "week": "2026-09-28",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-10-05",
         "impressionsOrganic": 0,
         "impressionsSponsored": 0,
         "engagement": 0,
@@ -2760,6 +2789,13 @@
         "impressionsSponsored": 0,
         "engagement": 0,
         "posts": 0
+      },
+      {
+        "week": "2026-10-05",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
       }
     ],
     "Stephan du Plooy": [
@@ -3140,6 +3176,13 @@
         "impressionsSponsored": 0,
         "engagement": 0,
         "posts": 0
+      },
+      {
+        "week": "2026-10-05",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
       }
     ],
     "Troy Demers": [
@@ -3516,6 +3559,13 @@
       },
       {
         "week": "2026-09-28",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-10-05",
         "impressionsOrganic": 0,
         "impressionsSponsored": 0,
         "engagement": 0,
