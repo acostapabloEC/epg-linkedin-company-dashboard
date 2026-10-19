@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-12",
+  "updatedAt": "2026-10-19",
   "currentFollowers": 2782,
-  "totalPostsAllTime": 291,
+  "totalPostsAllTime": 294,
   "weeklyMetrics": [
     {
       "week": "2025-09-15",
@@ -607,6 +607,17 @@
       "comments": 1,
       "reposts": 0,
       "engagement": 16
+    },
+    {
+      "week": "2026-10-12",
+      "impressionsOrganic": 1513,
+      "impressionsSponsored": 0,
+      "impressions": 1513,
+      "clicks": 86,
+      "reactions": 13,
+      "comments": 2,
+      "reposts": 0,
+      "engagement": 15
     }
   ],
   "authorStats": [
@@ -620,11 +631,19 @@
     },
     {
       "author": "Frank LaRosa",
-      "posts": 69,
-      "impressions": 19669,
-      "engagement": 331,
-      "avgImpressions": 285,
-      "avgEngagement": 4.8
+      "posts": 71,
+      "impressions": 20069,
+      "engagement": 333,
+      "avgImpressions": 283,
+      "avgEngagement": 4.7
+    },
+    {
+      "author": "Steven Weissman",
+      "posts": 14,
+      "impressions": 10416,
+      "engagement": 139,
+      "avgImpressions": 744,
+      "avgEngagement": 9.9
     },
     {
       "author": "Hannah O'Brien",
@@ -633,14 +652,6 @@
       "engagement": 187,
       "avgImpressions": 1107,
       "avgEngagement": 20.8
-    },
-    {
-      "author": "Steven Weissman",
-      "posts": 13,
-      "impressions": 9910,
-      "engagement": 126,
-      "avgImpressions": 762,
-      "avgEngagement": 9.7
     },
     {
       "author": "Stephan du Plooy",
@@ -660,56 +671,6 @@
     }
   ],
   "topPostsByWeek": {
-    "2026-07-13": [
-      {
-        "preview": "Sending our congratulations to Kaylor Bankler, Assistant Vice President of Corporate Services, on supporting the successful transition of an advisor with $550M in AUM. After an extensive due diligence process with Kaylor",
-        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7482803614789476353",
-        "type": "Organic",
-        "author": "Hannah O'Brien",
-        "date": "2026-07-13",
-        "week": "2026-07-13",
-        "impressions": 3640,
-        "views": 0,
-        "clicks": 85,
-        "likes": 25,
-        "comments": 5,
-        "reposts": 1,
-        "engagement": 31,
-        "contentType": "Organic"
-      },
-      {
-        "preview": "One year after LPL closed its $2.7 billion acquisition of Commonwealth Financial Network, the numbers are in: 654 advisors left. That's roughly 22.5% of Commonwealth's headcount, gone in under a year. LPL is still on tra",
-        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7483552241472389120",
-        "type": "Organic",
-        "author": "Frank LaRosa",
-        "date": "2026-07-16",
-        "week": "2026-07-13",
-        "impressions": 2015,
-        "views": 0,
-        "clicks": 224,
-        "likes": 8,
-        "comments": 0,
-        "reposts": 0,
-        "engagement": 8,
-        "contentType": "Organic"
-      },
-      {
-        "preview": "Some of our favorite moments from Ignite 2026 are the quiet conversations happening on the sidelines. Like this one pictured here, featuring Andrew Wayt of Gladstone Wealth Partners, sharing what's actually on his mind a",
-        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7484016649147322368",
-        "type": "Organic",
-        "author": "Brian Lutz",
-        "date": "2026-07-17",
-        "week": "2026-07-13",
-        "impressions": 202,
-        "views": 0,
-        "clicks": 6,
-        "likes": 2,
-        "comments": 0,
-        "reposts": 0,
-        "engagement": 2,
-        "contentType": "Organic"
-      }
-    ],
     "2026-07-20": [
       {
         "preview": "The best part of this job? It's never really about the business. Every advisor who walks through our door is more than a book of business or a transition plan —> they're a person with a story, a why, and a way of doing t",
@@ -1247,6 +1208,53 @@
         "engagement": 2,
         "contentType": "Organic"
       }
+    ],
+    "2026-10-12": [
+      {
+        "preview": "Congratulations to our latest advisor on a move bringing +$200M in AUM to their new home at @Osaic Financial - another successful transition completed with the support of our Business Development Manager, @Tom Richard! T",
+        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7516192355679461376",
+        "type": "Organic",
+        "author": "Steven Weissman",
+        "date": "2026-10-14",
+        "impressions": 506,
+        "views": 225,
+        "clicks": 31,
+        "likes": 11,
+        "comments": 2,
+        "reposts": 0,
+        "engagement": 13,
+        "contentType": "Video"
+      },
+      {
+        "preview": "An advisor called us 90 days into his move. He didn't even say hello. He just said, \"You weren't lying.\" We said, \"What are you talking about?\" He said, \"You weren't lying about how much more money I was going to make.\" ",
+        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7515411644001361920",
+        "type": "Organic",
+        "author": "Frank LaRosa",
+        "date": "2026-10-12",
+        "impressions": 339,
+        "views": 126,
+        "clicks": 11,
+        "likes": 2,
+        "comments": 0,
+        "reposts": 0,
+        "engagement": 2,
+        "contentType": "Video"
+      },
+      {
+        "preview": "Most failed RIA acquisitions don't die on valuation. They die on financing, and it's rarely the reason anyone expects going in. Buyers spend weeks nailing down valuation, retention rates, and cultural fit, then stumble a",
+        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7516136422710611969",
+        "type": "Organic",
+        "author": "Frank LaRosa",
+        "date": "2026-10-14",
+        "impressions": 61,
+        "views": 0,
+        "clicks": 0,
+        "likes": 0,
+        "comments": 0,
+        "reposts": 0,
+        "engagement": 0,
+        "contentType": "Organic"
+      }
     ]
   },
   "authorWeekly": {
@@ -1635,6 +1643,13 @@
         "impressionsSponsored": 0,
         "engagement": 1,
         "posts": 1
+      },
+      {
+        "week": "2026-10-12",
+        "impressionsOrganic": 400,
+        "impressionsSponsored": 0,
+        "engagement": 2,
+        "posts": 2
       }
     ],
     "Steven Weissman": [
@@ -2022,6 +2037,13 @@
         "impressionsSponsored": 0,
         "engagement": 12,
         "posts": 3
+      },
+      {
+        "week": "2026-10-12",
+        "impressionsOrganic": 506,
+        "impressionsSponsored": 0,
+        "engagement": 13,
+        "posts": 1
       }
     ],
     "Hannah O'Brien": [
@@ -2405,6 +2427,13 @@
       },
       {
         "week": "2026-10-05",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-10-12",
         "impressionsOrganic": 0,
         "impressionsSponsored": 0,
         "engagement": 0,
@@ -2796,6 +2825,13 @@
         "impressionsSponsored": 0,
         "engagement": 0,
         "posts": 0
+      },
+      {
+        "week": "2026-10-12",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
       }
     ],
     "Stephan du Plooy": [
@@ -3183,6 +3219,13 @@
         "impressionsSponsored": 0,
         "engagement": 0,
         "posts": 0
+      },
+      {
+        "week": "2026-10-12",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
       }
     ],
     "Troy Demers": [
@@ -3566,6 +3609,13 @@
       },
       {
         "week": "2026-10-05",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-10-12",
         "impressionsOrganic": 0,
         "impressionsSponsored": 0,
         "engagement": 0,
