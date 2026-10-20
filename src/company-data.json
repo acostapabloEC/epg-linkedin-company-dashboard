@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-19",
+  "updatedAt": "2026-10-20",
   "currentFollowers": 2782,
-  "totalPostsAllTime": 294,
+  "totalPostsAllTime": 303,
   "weeklyMetrics": [
     {
       "week": "2025-09-15",
@@ -565,6 +565,17 @@
       "engagement": 14
     },
     {
+      "week": "2026-09-07",
+      "impressionsOrganic": 3187,
+      "impressionsSponsored": 1773,
+      "impressions": 4960,
+      "clicks": 150,
+      "reactions": 37,
+      "comments": 5,
+      "reposts": 0,
+      "engagement": 42
+    },
+    {
       "week": "2026-09-14",
       "impressionsOrganic": 1796,
       "impressionsSponsored": 2509,
@@ -631,19 +642,19 @@
     },
     {
       "author": "Frank LaRosa",
-      "posts": 71,
-      "impressions": 20069,
-      "engagement": 333,
-      "avgImpressions": 283,
-      "avgEngagement": 4.7
+      "posts": 78,
+      "impressions": 20940,
+      "engagement": 337,
+      "avgImpressions": 268,
+      "avgEngagement": 4.3
     },
     {
       "author": "Steven Weissman",
-      "posts": 14,
-      "impressions": 10416,
-      "engagement": 139,
-      "avgImpressions": 744,
-      "avgEngagement": 9.9
+      "posts": 16,
+      "impressions": 12333,
+      "engagement": 165,
+      "avgImpressions": 771,
+      "avgEngagement": 10.3
     },
     {
       "author": "Hannah O'Brien",
@@ -1019,6 +1030,53 @@
         "reposts": 0,
         "engagement": 2,
         "contentType": "Organic"
+      }
+    ],
+    "2026-09-07": [
+      {
+        "preview": "🚨 Another Advisor Finds a New Path to Independence, with @Osaic Financial - Successful transition led by Elite Private Client Consultant @Tricia Fischer. For seasoned financial advisors, finding their \"right\" next chapt",
+        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7503492423860404224",
+        "type": "Organic",
+        "author": "Steven Weissman",
+        "date": "2026-09-09",
+        "impressions": 1685,
+        "views": 737,
+        "clicks": 31,
+        "likes": 15,
+        "comments": 3,
+        "reposts": 0,
+        "engagement": 18,
+        "contentType": "Video"
+      },
+      {
+        "preview": "Today is a somber day for so many of us; remembering the lasting impact of the tragedy that took place twenty-five years ago. Across New York City, Washington D.C, and Shanksville, PA, despite the attacks witnessed, we a",
+        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7504179670104485888",
+        "type": "Organic",
+        "author": "Steven Weissman",
+        "date": "2026-09-11",
+        "impressions": 232,
+        "views": 0,
+        "clicks": 8,
+        "likes": 7,
+        "comments": 0,
+        "reposts": 1,
+        "engagement": 8,
+        "contentType": "Organic"
+      },
+      {
+        "preview": "When you pick your firm name, it's not just about what you think is cool. It's about what it represents in the marketplace. Here's the part advisors miss. If you have a similar name to 27 other wealth management business",
+        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7503815311683506177",
+        "type": "Organic",
+        "author": "Frank LaRosa",
+        "date": "2026-09-10",
+        "impressions": 187,
+        "views": 73,
+        "clicks": 3,
+        "likes": 2,
+        "comments": 0,
+        "reposts": 0,
+        "engagement": 2,
+        "contentType": "Video"
       }
     ],
     "2026-09-14": [
@@ -1617,6 +1675,13 @@
         "posts": 7
       },
       {
+        "week": "2026-09-07",
+        "impressionsOrganic": 871,
+        "impressionsSponsored": 0,
+        "engagement": 4,
+        "posts": 7
+      },
+      {
         "week": "2026-09-14",
         "impressionsOrganic": 703,
         "impressionsSponsored": 0,
@@ -2011,6 +2076,13 @@
         "posts": 2
       },
       {
+        "week": "2026-09-07",
+        "impressionsOrganic": 1917,
+        "impressionsSponsored": 0,
+        "engagement": 26,
+        "posts": 2
+      },
+      {
         "week": "2026-09-14",
         "impressionsOrganic": 888,
         "impressionsSponsored": 0,
@@ -2399,6 +2471,13 @@
       },
       {
         "week": "2026-08-31",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-09-07",
         "impressionsOrganic": 0,
         "impressionsSponsored": 0,
         "engagement": 0,
@@ -2799,6 +2878,13 @@
         "posts": 0
       },
       {
+        "week": "2026-09-07",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
         "week": "2026-09-14",
         "impressionsOrganic": 0,
         "impressionsSponsored": 0,
@@ -3193,6 +3279,13 @@
         "posts": 0
       },
       {
+        "week": "2026-09-07",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
         "week": "2026-09-14",
         "impressionsOrganic": 0,
         "impressionsSponsored": 0,
@@ -3581,6 +3674,13 @@
       },
       {
         "week": "2026-08-31",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-09-07",
         "impressionsOrganic": 0,
         "impressionsSponsored": 0,
         "engagement": 0,
