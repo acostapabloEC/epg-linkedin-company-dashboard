@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-20",
+  "updatedAt": "2026-10-26",
   "currentFollowers": 2782,
-  "totalPostsAllTime": 303,
+  "totalPostsAllTime": 305,
   "weeklyMetrics": [
     {
       "week": "2025-09-15",
@@ -621,14 +621,25 @@
     },
     {
       "week": "2026-10-12",
-      "impressionsOrganic": 1513,
+      "impressionsOrganic": 1561,
       "impressionsSponsored": 0,
-      "impressions": 1513,
-      "clicks": 86,
+      "impressions": 1561,
+      "clicks": 87,
       "reactions": 13,
       "comments": 2,
       "reposts": 0,
       "engagement": 15
+    },
+    {
+      "week": "2026-10-19",
+      "impressionsOrganic": 2211,
+      "impressionsSponsored": 0,
+      "impressions": 2211,
+      "clicks": 96,
+      "reactions": 34,
+      "comments": 8,
+      "reposts": 1,
+      "engagement": 43
     }
   ],
   "authorStats": [
@@ -650,11 +661,11 @@
     },
     {
       "author": "Steven Weissman",
-      "posts": 16,
-      "impressions": 12333,
-      "engagement": 165,
-      "avgImpressions": 771,
-      "avgEngagement": 10.3
+      "posts": 18,
+      "impressions": 14206,
+      "engagement": 205,
+      "avgImpressions": 789,
+      "avgEngagement": 11.4
     },
     {
       "author": "Hannah O'Brien",
@@ -682,106 +693,6 @@
     }
   ],
   "topPostsByWeek": {
-    "2026-07-20": [
-      {
-        "preview": "The best part of this job? It's never really about the business. Every advisor who walks through our door is more than a book of business or a transition plan —> they're a person with a story, a why, and a way of doing t",
-        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7486431249914359808",
-        "type": "Organic",
-        "author": "Brian Lutz",
-        "date": "2026-07-24",
-        "week": "2026-07-20",
-        "impressions": 727,
-        "views": 291,
-        "clicks": 45,
-        "likes": 12,
-        "comments": 0,
-        "reposts": 1,
-        "engagement": 13,
-        "contentType": "Video"
-      },
-      {
-        "preview": "Every advisor's definition of independence is different. For one experienced wealth advisor managing $195 million in client assets, it wasn't about chasing a higher payout or building everything from scratch. It was abou",
-        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7485746816555204608",
-        "type": "Organic",
-        "author": "Brian Lutz",
-        "date": "2026-07-22",
-        "week": "2026-07-20",
-        "impressions": 468,
-        "views": 0,
-        "clicks": 3,
-        "likes": 4,
-        "comments": 0,
-        "reposts": 0,
-        "engagement": 4,
-        "contentType": "Organic"
-      },
-      {
-        "preview": "Do you see yourself as more than an advisor? As someone who wants to lead their own team, and build the future of a firm? Some advisors find that they're passionate about more than just serving clients, and motivated by ",
-        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7485019514087247872",
-        "type": "Organic",
-        "author": "Brian Lutz",
-        "date": "2026-07-20",
-        "week": "2026-07-20",
-        "impressions": 350,
-        "views": 0,
-        "clicks": 1,
-        "likes": 4,
-        "comments": 0,
-        "reposts": 0,
-        "engagement": 4,
-        "contentType": "Organic"
-      }
-    ],
-    "2026-07-27": [
-      {
-        "preview": "Great advisor transitions rarely happen by accident, because when they do happen, they're guided by experienced leaders who understand both the business, and the people behind the decision. Experienced leaders with years",
-        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7488268442219937792",
-        "type": "Organic",
-        "author": "Brian Lutz",
-        "date": "2026-07-29",
-        "week": "2026-07-27",
-        "impressions": 1744,
-        "views": 0,
-        "clicks": 601,
-        "likes": 28,
-        "comments": 0,
-        "reposts": 1,
-        "engagement": 29,
-        "contentType": "Organic"
-      },
-      {
-        "preview": "The right partnership can change the trajectory of an advisor's business. Congratulations to Private Client Consultant Tricia Fischer, for helping facilitate the successful transition of $180 million in assets under mana",
-        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7487877041443409921",
-        "type": "Organic",
-        "author": "Brian Lutz",
-        "date": "2026-07-28",
-        "week": "2026-07-27",
-        "impressions": 1166,
-        "views": 481,
-        "clicks": 105,
-        "likes": 23,
-        "comments": 2,
-        "reposts": 1,
-        "engagement": 26,
-        "contentType": "Video"
-      },
-      {
-        "preview": "A CRO's job is usually described in numbers: revenue, pipeline, growth targets. Stacey Frank, our Chief Revenue Officer, sees it differently, and says so directly in this video: \"People want to work with others they know",
-        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7488956739489525761",
-        "type": "Organic",
-        "author": "Brian Lutz",
-        "date": "2026-07-31",
-        "week": "2026-07-27",
-        "impressions": 370,
-        "views": 158,
-        "clicks": 15,
-        "likes": 5,
-        "comments": 0,
-        "reposts": 0,
-        "engagement": 5,
-        "contentType": "Video"
-      }
-    ],
     "2026-08-03": [
       {
         "preview": "Celebrating a new home for $1B in AUM that transitioned to Rockefeller Capital Management. Some transitions aren't just about assets moving from one place to another, they're about a promise being kept. For this Oklahoma",
@@ -1313,6 +1224,38 @@
         "engagement": 0,
         "contentType": "Organic"
       }
+    ],
+    "2026-10-19": [
+      {
+        "preview": "",
+        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7517970817578807296",
+        "type": "Organic",
+        "author": "Steven Weissman",
+        "date": "2026-10-19",
+        "impressions": 1332,
+        "views": 100,
+        "clicks": 56,
+        "likes": 17,
+        "comments": 5,
+        "reposts": 1,
+        "engagement": 23,
+        "contentType": "Article"
+      },
+      {
+        "preview": "Congratulations to our latest advisor bringing +$105M in AUM to a new home Michigan Financial Companies. Sometimes advisors come to us when they're already partway through the process. They've got an offer in hand, a dea",
+        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7518759282507710464",
+        "type": "Organic",
+        "author": "Steven Weissman",
+        "date": "2026-10-21",
+        "impressions": 541,
+        "views": 265,
+        "clicks": 29,
+        "likes": 12,
+        "comments": 4,
+        "reposts": 1,
+        "engagement": 17,
+        "contentType": "Video"
+      }
     ]
   },
   "authorWeekly": {
@@ -1715,6 +1658,13 @@
         "impressionsSponsored": 0,
         "engagement": 2,
         "posts": 2
+      },
+      {
+        "week": "2026-10-19",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
       }
     ],
     "Steven Weissman": [
@@ -2116,6 +2066,13 @@
         "impressionsSponsored": 0,
         "engagement": 13,
         "posts": 1
+      },
+      {
+        "week": "2026-10-19",
+        "impressionsOrganic": 1873,
+        "impressionsSponsored": 0,
+        "engagement": 40,
+        "posts": 2
       }
     ],
     "Hannah O'Brien": [
@@ -2513,6 +2470,13 @@
       },
       {
         "week": "2026-10-12",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-10-19",
         "impressionsOrganic": 0,
         "impressionsSponsored": 0,
         "engagement": 0,
@@ -2918,6 +2882,13 @@
         "impressionsSponsored": 0,
         "engagement": 0,
         "posts": 0
+      },
+      {
+        "week": "2026-10-19",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
       }
     ],
     "Stephan du Plooy": [
@@ -3319,6 +3290,13 @@
         "impressionsSponsored": 0,
         "engagement": 0,
         "posts": 0
+      },
+      {
+        "week": "2026-10-19",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
       }
     ],
     "Troy Demers": [
@@ -3716,6 +3694,13 @@
       },
       {
         "week": "2026-10-12",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-10-19",
         "impressionsOrganic": 0,
         "impressionsSponsored": 0,
         "engagement": 0,
