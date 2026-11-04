@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-26",
+  "updatedAt": "2026-11-04",
   "currentFollowers": 2782,
-  "totalPostsAllTime": 305,
+  "totalPostsAllTime": 306,
   "weeklyMetrics": [
     {
       "week": "2025-09-15",
@@ -640,6 +640,17 @@
       "comments": 8,
       "reposts": 1,
       "engagement": 43
+    },
+    {
+      "week": "2026-10-26",
+      "impressionsOrganic": 1301,
+      "impressionsSponsored": 0,
+      "impressions": 1301,
+      "clicks": 44,
+      "reactions": 28,
+      "comments": 3,
+      "reposts": 0,
+      "engagement": 31
     }
   ],
   "authorStats": [
@@ -661,11 +672,11 @@
     },
     {
       "author": "Steven Weissman",
-      "posts": 18,
-      "impressions": 14206,
-      "engagement": 205,
-      "avgImpressions": 789,
-      "avgEngagement": 11.4
+      "posts": 19,
+      "impressions": 15053,
+      "engagement": 235,
+      "avgImpressions": 792,
+      "avgEngagement": 12.4
     },
     {
       "author": "Hannah O'Brien",
@@ -693,56 +704,6 @@
     }
   ],
   "topPostsByWeek": {
-    "2026-08-03": [
-      {
-        "preview": "Celebrating a new home for $1B in AUM that transitioned to Rockefeller Capital Management. Some transitions aren't just about assets moving from one place to another, they're about a promise being kept. For this Oklahoma",
-        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7490470406131322880",
-        "type": "Organic",
-        "author": "Brian Lutz",
-        "date": "2026-08-04",
-        "week": "2026-08-03",
-        "impressions": 882,
-        "views": 402,
-        "clicks": 30,
-        "likes": 14,
-        "comments": 0,
-        "reposts": 0,
-        "engagement": 14,
-        "contentType": "Video"
-      },
-      {
-        "preview": "The private equity money reshaping this industry is not slowing down. Nearly 76% of RIA acquisitions last quarter involved a PE-backed buyer. That is a record, and it is changing the math on every offer landing in front ",
-        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7491607093477773312",
-        "type": "Organic",
-        "author": "Frank LaRosa",
-        "date": "2026-08-07",
-        "week": "2026-08-03",
-        "impressions": 140,
-        "views": 0,
-        "clicks": 23,
-        "likes": 3,
-        "comments": 2,
-        "reposts": 0,
-        "engagement": 5,
-        "contentType": "Organic"
-      },
-      {
-        "preview": "At Elite Consulting Partners, we our mission to work with advisors and wealth management firms to reach their ultimate personal and professional goals. For firms like 1792 Wealth Advisors, that means fostering close-knit",
-        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7491516013897773056",
-        "type": "Organic",
-        "author": "Brian Lutz",
-        "date": "2026-08-07",
-        "week": "2026-08-03",
-        "impressions": 418,
-        "views": 167,
-        "clicks": 32,
-        "likes": 5,
-        "comments": 0,
-        "reposts": 0,
-        "engagement": 5,
-        "contentType": "Video"
-      }
-    ],
     "2026-08-10": [
       {
         "preview": "Too many advisors chase the highest upfront number and end up with the worst long-term deal. The first is getting enamored by the upfront money. Advisors focus so hard on maximizing what they get at signing that they giv",
@@ -1256,6 +1217,23 @@
         "engagement": 17,
         "contentType": "Video"
       }
+    ],
+    "2026-10-26": [
+      {
+        "preview": "Keeping what works, changing what doesn't | +$175M to Arkadios Capital. This three-person advisory team built its practice around independence. They run their own portfolios with a full-time, in-house portfolio manager, ",
+        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7521241883541413888",
+        "type": "Organic",
+        "author": "Steven Weissman",
+        "date": "2026-10-28",
+        "impressions": 847,
+        "views": 380,
+        "clicks": 29,
+        "likes": 26,
+        "comments": 1,
+        "reposts": 3,
+        "engagement": 30,
+        "contentType": "Video"
+      }
     ]
   },
   "authorWeekly": {
@@ -1661,6 +1639,13 @@
       },
       {
         "week": "2026-10-19",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-10-26",
         "impressionsOrganic": 0,
         "impressionsSponsored": 0,
         "engagement": 0,
@@ -2073,6 +2058,13 @@
         "impressionsSponsored": 0,
         "engagement": 40,
         "posts": 2
+      },
+      {
+        "week": "2026-10-26",
+        "impressionsOrganic": 847,
+        "impressionsSponsored": 0,
+        "engagement": 30,
+        "posts": 1
       }
     ],
     "Hannah O'Brien": [
@@ -2477,6 +2469,13 @@
       },
       {
         "week": "2026-10-19",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-10-26",
         "impressionsOrganic": 0,
         "impressionsSponsored": 0,
         "engagement": 0,
@@ -2889,6 +2888,13 @@
         "impressionsSponsored": 0,
         "engagement": 0,
         "posts": 0
+      },
+      {
+        "week": "2026-10-26",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
       }
     ],
     "Stephan du Plooy": [
@@ -3297,6 +3303,13 @@
         "impressionsSponsored": 0,
         "engagement": 0,
         "posts": 0
+      },
+      {
+        "week": "2026-10-26",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
       }
     ],
     "Troy Demers": [
@@ -3701,6 +3714,13 @@
       },
       {
         "week": "2026-10-19",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-10-26",
         "impressionsOrganic": 0,
         "impressionsSponsored": 0,
         "engagement": 0,
