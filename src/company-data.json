@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-16",
   "currentFollowers": 2782,
-  "totalPostsAllTime": 306,
+  "totalPostsAllTime": 314,
   "weeklyMetrics": [
     {
       "week": "2025-09-15",
@@ -651,6 +651,28 @@
       "comments": 3,
       "reposts": 0,
       "engagement": 31
+    },
+    {
+      "week": "2026-11-02",
+      "impressionsOrganic": 1370,
+      "impressionsSponsored": 28129,
+      "impressions": 29499,
+      "clicks": 425,
+      "reactions": 14,
+      "comments": 1,
+      "reposts": 0,
+      "engagement": 15
+    },
+    {
+      "week": "2026-11-09",
+      "impressionsOrganic": 3062,
+      "impressionsSponsored": 20125,
+      "impressions": 23187,
+      "clicks": 520,
+      "reactions": 46,
+      "comments": 7,
+      "reposts": 0,
+      "engagement": 53
     }
   ],
   "authorStats": [
@@ -672,11 +694,11 @@
     },
     {
       "author": "Steven Weissman",
-      "posts": 19,
-      "impressions": 15053,
-      "engagement": 235,
-      "avgImpressions": 792,
-      "avgEngagement": 12.4
+      "posts": 27,
+      "impressions": 18372,
+      "engagement": 302,
+      "avgImpressions": 680,
+      "avgEngagement": 11.2
     },
     {
       "author": "Hannah O'Brien",
@@ -704,106 +726,6 @@
     }
   ],
   "topPostsByWeek": {
-    "2026-08-10": [
-      {
-        "preview": "Too many advisors chase the highest upfront number and end up with the worst long-term deal. The first is getting enamored by the upfront money. Advisors focus so hard on maximizing what they get at signing that they giv",
-        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7494755505521774592",
-        "type": "Organic",
-        "author": "Frank LaRosa",
-        "date": "2026-08-16",
-        "week": "2026-08-10",
-        "impressions": 784,
-        "views": 341,
-        "clicks": 39,
-        "likes": 5,
-        "comments": 0,
-        "reposts": 3,
-        "engagement": 8,
-        "contentType": "Video"
-      },
-      {
-        "preview": "Notice how many firms are suddenly desperate to sell you something. Asset managers who spent decades chasing pensions and endowments are pivoting hard toward advisors, because the old institutional business is drying up ",
-        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7494393341304889344",
-        "type": "Organic",
-        "author": "Frank LaRosa",
-        "date": "2026-08-15",
-        "week": "2026-08-10",
-        "impressions": 128,
-        "views": 0,
-        "clicks": 15,
-        "likes": 1,
-        "comments": 0,
-        "reposts": 0,
-        "engagement": 1,
-        "contentType": "Organic"
-      },
-      {
-        "preview": "An employee-owned firm just sold a majority stake to a global investor, and most advisors will read that headline and file it under \"another one taken over.\" Look closer. This is one of the smartest deals we have seen in",
-        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7493669159944220672",
-        "type": "Organic",
-        "author": "Frank LaRosa",
-        "date": "2026-08-13",
-        "week": "2026-08-10",
-        "impressions": 223,
-        "views": 0,
-        "clicks": 26,
-        "likes": 1,
-        "comments": 0,
-        "reposts": 0,
-        "engagement": 1,
-        "contentType": "Organic"
-      }
-    ],
-    "2026-08-17": [
-      {
-        "preview": "This advisor built something rare: he had a Founder and Managing Director title, a $255M practice, 95% fee-based advisory business, all under a multi-billion-dollar team. On paper, he'd already won... But the bigger his ",
-        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7495562190834511872",
-        "type": "Organic",
-        "author": "Hannah O'Brien",
-        "date": "2026-08-18",
-        "week": "2026-08-17",
-        "impressions": 547,
-        "views": 238,
-        "clicks": 19,
-        "likes": 9,
-        "comments": 0,
-        "reposts": 1,
-        "engagement": 10,
-        "contentType": "Video"
-      },
-      {
-        "preview": "Advisors are cheap when it comes to investing in their own business. And it is costing them more than they realize. I was working through this with an advisor recently. Her staff was getting pulled into HR issues and ope",
-        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7495480545099804672",
-        "type": "Organic",
-        "author": "Frank LaRosa",
-        "date": "2026-08-18",
-        "week": "2026-08-17",
-        "impressions": 174,
-        "views": 58,
-        "clicks": 1,
-        "likes": 1,
-        "comments": 0,
-        "reposts": 1,
-        "engagement": 2,
-        "contentType": "Video"
-      },
-      {
-        "preview": "Most advisors sound the same in a client meeting. That's not a personality problem. It's a training problem. Every advisor studies the same core concepts to enter this industry. The result is predictable. Most client con",
-        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7496567847595233280",
-        "type": "Organic",
-        "author": "Frank LaRosa",
-        "date": "2026-08-21",
-        "week": "2026-08-17",
-        "impressions": 134,
-        "views": 0,
-        "clicks": 17,
-        "likes": 1,
-        "comments": 0,
-        "reposts": 0,
-        "engagement": 1,
-        "contentType": "Organic"
-      }
-    ],
     "2026-08-24": [
       {
         "preview": "Ten to fifteen years with the same clients. A $110M practice built the straightforward way. At 46, this advisor wasn't looking for his next chapter - - he was ready to close the book, and he wanted to do it within the ne",
@@ -1234,6 +1156,85 @@
         "engagement": 30,
         "contentType": "Video"
       }
+    ],
+    "2026-11-02": [
+      {
+        "preview": "This advisor built something rare: he had a Founder and Managing Director title, a $255M practice, 95% fee-based advisory business, all under a multi-billion-dollar team. On paper, he'd already won... But the bigger his ",
+        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7523806290608050176",
+        "type": "Organic",
+        "author": "Steven Weissman",
+        "date": "2026-11-04",
+        "impressions": 424,
+        "views": 179,
+        "clicks": 12,
+        "likes": 7,
+        "comments": 1,
+        "reposts": 0,
+        "engagement": 8,
+        "contentType": "Video"
+      },
+      {
+        "preview": "A former physician founded an RIA for physicians and healthcare professionals in 2002 and grew it to about $700 million in assets. This month it was acquired by a $33 billion employee-owned firm with minority outside inv",
+        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7524878856269254657",
+        "type": "Organic",
+        "author": "Steven Weissman",
+        "date": "2026-11-07",
+        "impressions": 118,
+        "views": 0,
+        "clicks": 0,
+        "likes": 1,
+        "comments": 0,
+        "reposts": 0,
+        "engagement": 1,
+        "contentType": "Organic"
+      }
+    ],
+    "2026-11-09": [
+      {
+        "preview": "We’re proud to congratulate our CEO, Frank LaRosa, on being named one of the Top 5 Financial Advisor Recruiters of the Year by Wealth Solutions Report Solutions Report. WSR’s selection was based on more than a decade of ",
+        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7525997120986877952",
+        "type": "Organic",
+        "author": "Steven Weissman",
+        "date": "2026-11-10",
+        "impressions": 1233,
+        "views": 0,
+        "clicks": 47,
+        "likes": 25,
+        "comments": 4,
+        "reposts": 0,
+        "engagement": 29,
+        "contentType": "Organic"
+      },
+      {
+        "preview": "Tom Richardson just hit triple digits! ⚾ This past week, our Business Development Manager Tom Richardson made his 100th advisor introduction of 2026. It’s already been a record-breaking year for Tom and he is still helpi",
+        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7525573824688529408",
+        "type": "Organic",
+        "author": "Steven Weissman",
+        "date": "2026-11-09",
+        "impressions": 728,
+        "views": 0,
+        "clicks": 178,
+        "likes": 11,
+        "comments": 4,
+        "reposts": 1,
+        "engagement": 16,
+        "contentType": "Organic"
+      },
+      {
+        "preview": "The 2026 year-to-date edition of our Elite Wealth Management Insight Report is now live! Our team reviewed 93,650 advisor-level affiliation events in FINRA and SEC records dating back to 2021. We looked at whether adviso",
+        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7526676599933669376",
+        "type": "Organic",
+        "author": "Steven Weissman",
+        "date": "2026-11-12",
+        "impressions": 231,
+        "views": 88,
+        "clicks": 10,
+        "likes": 6,
+        "comments": 1,
+        "reposts": 3,
+        "engagement": 10,
+        "contentType": "Video"
+      }
     ]
   },
   "authorWeekly": {
@@ -1646,6 +1647,20 @@
       },
       {
         "week": "2026-10-26",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-11-02",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-11-09",
         "impressionsOrganic": 0,
         "impressionsSponsored": 0,
         "engagement": 0,
@@ -2065,6 +2080,20 @@
         "impressionsSponsored": 0,
         "engagement": 30,
         "posts": 1
+      },
+      {
+        "week": "2026-11-02",
+        "impressionsOrganic": 853,
+        "impressionsSponsored": 0,
+        "engagement": 9,
+        "posts": 3
+      },
+      {
+        "week": "2026-11-09",
+        "impressionsOrganic": 2466,
+        "impressionsSponsored": 0,
+        "engagement": 58,
+        "posts": 5
       }
     ],
     "Hannah O'Brien": [
@@ -2476,6 +2505,20 @@
       },
       {
         "week": "2026-10-26",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-11-02",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-11-09",
         "impressionsOrganic": 0,
         "impressionsSponsored": 0,
         "engagement": 0,
@@ -2895,6 +2938,20 @@
         "impressionsSponsored": 0,
         "engagement": 0,
         "posts": 0
+      },
+      {
+        "week": "2026-11-02",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-11-09",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
       }
     ],
     "Stephan du Plooy": [
@@ -3310,6 +3367,20 @@
         "impressionsSponsored": 0,
         "engagement": 0,
         "posts": 0
+      },
+      {
+        "week": "2026-11-02",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-11-09",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
       }
     ],
     "Troy Demers": [
@@ -3721,6 +3792,20 @@
       },
       {
         "week": "2026-10-26",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-11-02",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-11-09",
         "impressionsOrganic": 0,
         "impressionsSponsored": 0,
         "engagement": 0,
