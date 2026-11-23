@@ -6,7 +6,7 @@ import {
 } from "recharts";
 import data from "./company-data.json";
 
-const { updatedAt, currentFollowers, totalPostsAllTime, weeklyMetrics, authorStats, authorWeekly, topPostsByWeek } = data;
+const { updatedAt, dataThrough, followersAsOf, currentFollowers, totalPostsAllTime, weeklyMetrics, authorStats, authorWeekly, topPostsByWeek } = data;
 
 const GOLD     = "#c9a84c";
 const GOLD_DIM = "rgba(201,168,76,0.15)";
@@ -101,7 +101,7 @@ export default function App() {
               <div>
                 <div style={{ fontSize: 20, fontWeight: 700 }}>Elite Consulting Partners — LinkedIn Company Page</div>
                 <div style={{ fontFamily: "'DM Mono',monospace", fontSize: 11, letterSpacing: 1, textTransform: "uppercase", color: MUTED, marginTop: 2 }}>
-                  Company Page · not Frank LaRosa's personal profile · {fmtDate(weeklyMetrics[0].week)} – {fmtDate(latestWeek.week)}
+                  Company Page · not Frank LaRosa's personal profile · {fmtDate(weeklyMetrics[0].week)} – {fmtDate(dataThrough)}
                 </div>
               </div>
             </div>
@@ -110,13 +110,13 @@ export default function App() {
             <div style={{ fontFamily: "'DM Mono',monospace", fontSize: 11, letterSpacing: 1, textTransform: "uppercase", background: GOLD_DIM, color: GOLD, padding: "5px 12px", borderRadius: 6, border: `1px solid rgba(201,168,76,0.2)`, display: "inline-block" }}>
               Live Dashboard
             </div>
-            <div style={{ fontSize: 11, color: MUTED, marginTop: 6 }}>Data through {fmtDate(latestWeek.week)} (week ending {fmtDate(new Date(new Date(latestWeek.week+"T12:00:00").getTime()+6*864e5).toISOString().slice(0,10))})</div>
+            <div style={{ fontSize: 11, color: MUTED, marginTop: 6 }}>Data through {fmtDate(dataThrough)}</div>
           </div>
         </div>
 
         {/* KPI row */}
         <div style={{ display: "flex", gap: 16, flexWrap: "wrap", marginBottom: 24 }}>
-          <KpiCard label="Total Followers" value={currentFollowers.toLocaleString()} accent={PURPLE} sub={`As of ${fmtDate(latestWeek.week)}`} large />
+          <KpiCard label="Total Followers" value={currentFollowers.toLocaleString()} accent={PURPLE} sub={`As of ${fmtDate(followersAsOf)}`} large />
           <KpiCard label={`Impressions (${fmtWeekLabel(latestWeek.week)})`} value={fmtK(latestWeek.impressions)} delta={delta(latestWeek.impressions, prevWeek?.impressions)} deltaLabel={`vs prior week (${fmtK(prevWeek?.impressions || 0)})`} accent={BLUE} />
           <KpiCard label={`Engagement (${fmtWeekLabel(latestWeek.week)})`} value={latestWeek.engagement.toLocaleString()} delta={delta(latestWeek.engagement, prevWeek?.engagement)} deltaLabel={`vs prior week (${prevWeek?.engagement || 0})`} accent={GREEN} />
           <KpiCard label="Organic vs Sponsored (this week)" value={`${fmtK(latestWeek.impressionsOrganic)} / ${fmtK(latestWeek.impressionsSponsored)}`} sub={`${Math.round((latestWeek.impressionsOrganic/(latestWeek.impressions||1))*100)}% organic`} accent={GOLD} />
@@ -154,7 +154,7 @@ export default function App() {
             Weekly Impressions{selectedAuthor === "all" ? " — Organic vs. Sponsored" : ` — ${selectedAuthor}`}
           </div>
           <div style={{ fontSize: 11, color: MUTED, marginBottom: 16 }}>
-            {weeklyMetrics.length} weeks · {fmtDate(weeklyMetrics[0].week)} – {fmtDate(latestWeek.week)}
+            {weeklyMetrics.length} weeks · {fmtDate(weeklyMetrics[0].week)} – {fmtDate(dataThrough)}
             {selectedAuthorStats && ` · ${selectedAuthorStats.posts} posts · ${fmtNum(selectedAuthorStats.impressions)} impressions all-time`}
           </div>
           <ResponsiveContainer width="100%" height={280}>

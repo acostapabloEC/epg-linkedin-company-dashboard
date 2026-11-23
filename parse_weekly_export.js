@@ -54,12 +54,14 @@ async function main() {
     clicks: 0, reactions: 0, comments: 0, reposts: 0,
   };
   let daysFound = 0;
+  let lastDayFound = null;
   for (const r of metricsRows) {
     const [dateStr, imprOrg, imprSpon, imprTotal, , , , clicksTotal, , , reactTotal, , , commTotal, , , repTotal] = r;
     if (!dateStr) continue;
     const d = parseUS(dateStr);
     if (d < weekStartD || d > weekEndD) continue;
     daysFound++;
+    if (!lastDayFound || d > lastDayFound) lastDayFound = d;
     week.impressionsOrganic += parseInt(imprOrg, 10) || 0;
     week.impressionsSponsored += parseInt(imprSpon, 10) || 0;
     week.impressions += parseInt(imprTotal, 10) || 0;
@@ -109,7 +111,7 @@ async function main() {
   }
 
   console.log(JSON.stringify({
-    weekStart, weekEnd: iso(weekEndD), daysFoundInMetricsSheet: daysFound,
+    weekStart, weekEnd: iso(weekEndD), daysFoundInMetricsSheet: daysFound, lastDayFound: lastDayFound ? iso(lastDayFound) : null,
     weeklyMetricsRow: week,
     postsThisWeek: posts.length,
     topPosts,

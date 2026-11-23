@@ -101,6 +101,7 @@ while (weekKeys.length > 12) {
   delete data.topPostsByWeek[weekKeys.shift()];
 }
 
+if (week.lastDayFound && week.lastDayFound > (data.dataThrough || "")) data.dataThrough = week.lastDayFound;
 data.updatedAt = new Date().toISOString().slice(0, 10);
 
 fs.writeFileSync(DATA_PATH, JSON.stringify(data, null, 2) + '\n');
