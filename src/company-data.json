@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-23",
   "currentFollowers": 2782,
-  "totalPostsAllTime": 314,
+  "totalPostsAllTime": 317,
   "weeklyMetrics": [
     {
       "week": "2025-09-15",
@@ -665,14 +665,25 @@
     },
     {
       "week": "2026-11-09",
-      "impressionsOrganic": 3062,
-      "impressionsSponsored": 20125,
-      "impressions": 23187,
-      "clicks": 520,
-      "reactions": 46,
-      "comments": 7,
+      "impressionsOrganic": 3107,
+      "impressionsSponsored": 20413,
+      "impressions": 23520,
+      "clicks": 526,
+      "reactions": 47,
+      "comments": 8,
       "reposts": 0,
-      "engagement": 53
+      "engagement": 55
+    },
+    {
+      "week": "2026-11-16",
+      "impressionsOrganic": 1316,
+      "impressionsSponsored": 32895,
+      "impressions": 34211,
+      "clicks": 547,
+      "reactions": 18,
+      "comments": 1,
+      "reposts": 1,
+      "engagement": 20
     }
   ],
   "authorStats": [
@@ -694,19 +705,19 @@
     },
     {
       "author": "Steven Weissman",
-      "posts": 27,
-      "impressions": 18372,
-      "engagement": 302,
-      "avgImpressions": 680,
-      "avgEngagement": 11.2
+      "posts": 29,
+      "impressions": 19088,
+      "engagement": 314,
+      "avgImpressions": 658,
+      "avgEngagement": 10.8
     },
     {
       "author": "Hannah O'Brien",
-      "posts": 9,
-      "impressions": 9964,
-      "engagement": 187,
-      "avgImpressions": 1107,
-      "avgEngagement": 20.8
+      "posts": 10,
+      "impressions": 10109,
+      "engagement": 188,
+      "avgImpressions": 1011,
+      "avgEngagement": 18.8
     },
     {
       "author": "Stephan du Plooy",
@@ -726,56 +737,6 @@
     }
   ],
   "topPostsByWeek": {
-    "2026-08-24": [
-      {
-        "preview": "Ten to fifteen years with the same clients. A $110M practice built the straightforward way. At 46, this advisor wasn't looking for his next chapter - - he was ready to close the book, and he wanted to do it within the ne",
-        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7498806607133458434",
-        "type": "Organic",
-        "author": "Steven Weissman",
-        "date": "2026-08-27",
-        "week": "2026-08-24",
-        "impressions": 4568,
-        "views": 0,
-        "clicks": 137,
-        "likes": 41,
-        "comments": 9,
-        "reposts": 1,
-        "engagement": 51,
-        "contentType": "Organic"
-      },
-      {
-        "preview": "After working with some of the largest practices in the country, I can tell you there are 3 types of financial advisors on social media right now. And only one of them is actually building something. Advisor 1 posts mark",
-        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7498379853264556032",
-        "type": "Organic",
-        "author": "Frank LaRosa",
-        "date": "2026-08-26",
-        "week": "2026-08-24",
-        "impressions": 575,
-        "views": 261,
-        "clicks": 38,
-        "likes": 6,
-        "comments": 1,
-        "reposts": 0,
-        "engagement": 7,
-        "contentType": "Video"
-      },
-      {
-        "preview": "85% of what every firm is selling you is identical. The culture talk. The \"we're different\" speech. No firm has ever walked into a meeting and said \"candidly, our culture kind of sucks.\" Right? They all say the same thin",
-        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7499828887712026624",
-        "type": "Organic",
-        "author": "Frank LaRosa",
-        "date": "2026-08-30",
-        "week": "2026-08-24",
-        "impressions": 204,
-        "views": 74,
-        "clicks": 5,
-        "likes": 2,
-        "comments": 0,
-        "reposts": 0,
-        "engagement": 2,
-        "contentType": "Video"
-      }
-    ],
     "2026-08-31": [
       {
         "preview": "For #GlobalTalentAcquisitionDay, we want to draw attention to one of our guiding tenets at ECP: Great talent is not just found… it is strategically aligned. Every advisor is unique in their life and career goals, which i",
@@ -1235,6 +1196,53 @@
         "engagement": 10,
         "contentType": "Video"
       }
+    ],
+    "2026-11-16": [
+      {
+        "preview": "Giving back to the community we call home. This holiday season, the Elite Consulting Partners team collected cereal, pasta, canned goods, and other pantry staples for the Food Bank of South Jersey. We’re glad to support ",
+        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7529223388339486720",
+        "type": "Organic",
+        "author": "Steven Weissman",
+        "date": "2026-11-19",
+        "impressions": 508,
+        "views": 0,
+        "clicks": 46,
+        "likes": 10,
+        "comments": 0,
+        "reposts": 0,
+        "engagement": 10,
+        "contentType": "Organic"
+      },
+      {
+        "preview": "Sending a congratulations to this $1B+ team who were ready for their next chapter, and after working alongside Private Client Consultant Julie Banta Mizerany, found their new home with Prospera Financial! This was a fast",
+        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7528490902231642113",
+        "type": "Organic",
+        "author": "Steven Weissman",
+        "date": "2026-11-17",
+        "impressions": 208,
+        "views": 338,
+        "clicks": 12,
+        "likes": 1,
+        "comments": 0,
+        "reposts": 1,
+        "engagement": 2,
+        "contentType": "Video"
+      },
+      {
+        "preview": "2025 looked like a record year for advisor movement. It wasn't. More than half (51%) of the financial advisor registration changes behind the 2025 \"surge\" were re-papering: firms consolidating entities and moving paperwo",
+        "link": "https://www.linkedin.com/feed/update/urn:li:activity:7528191512170528768",
+        "type": "Organic",
+        "author": "Hannah O'Brien",
+        "date": "2026-11-16",
+        "impressions": 145,
+        "views": 0,
+        "clicks": 0,
+        "likes": 0,
+        "comments": 1,
+        "reposts": 0,
+        "engagement": 1,
+        "contentType": "Organic"
+      }
     ]
   },
   "authorWeekly": {
@@ -1661,6 +1669,13 @@
       },
       {
         "week": "2026-11-09",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-11-16",
         "impressionsOrganic": 0,
         "impressionsSponsored": 0,
         "engagement": 0,
@@ -2094,6 +2109,13 @@
         "impressionsSponsored": 0,
         "engagement": 58,
         "posts": 5
+      },
+      {
+        "week": "2026-11-16",
+        "impressionsOrganic": 716,
+        "impressionsSponsored": 0,
+        "engagement": 12,
+        "posts": 2
       }
     ],
     "Hannah O'Brien": [
@@ -2523,6 +2545,13 @@
         "impressionsSponsored": 0,
         "engagement": 0,
         "posts": 0
+      },
+      {
+        "week": "2026-11-16",
+        "impressionsOrganic": 145,
+        "impressionsSponsored": 0,
+        "engagement": 1,
+        "posts": 1
       }
     ],
     "Brian Lutz": [
@@ -2948,6 +2977,13 @@
       },
       {
         "week": "2026-11-09",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-11-16",
         "impressionsOrganic": 0,
         "impressionsSponsored": 0,
         "engagement": 0,
@@ -3381,6 +3417,13 @@
         "impressionsSponsored": 0,
         "engagement": 0,
         "posts": 0
+      },
+      {
+        "week": "2026-11-16",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
       }
     ],
     "Troy Demers": [
@@ -3806,6 +3849,13 @@
       },
       {
         "week": "2026-11-09",
+        "impressionsOrganic": 0,
+        "impressionsSponsored": 0,
+        "engagement": 0,
+        "posts": 0
+      },
+      {
+        "week": "2026-11-16",
         "impressionsOrganic": 0,
         "impressionsSponsored": 0,
         "engagement": 0,
